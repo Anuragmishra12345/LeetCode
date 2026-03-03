@@ -16,11 +16,12 @@
 class Solution {
     
     public TreeNode canMerge(List<TreeNode> trees) {
-        Map<Integer,TreeNode> map=new HashMap<>();
+        Map<Integer,TreeNode> roots=new HashMap<>();
         Set<Integer> leaves=new HashSet<>();
         TreeNode root=null;
-        for(TreeNode node: trees){
-            map.put(node.val,node);
+
+        for(TreeNode node:trees){
+            roots.put(node.val,node);
             if(node.left!=null) leaves.add(node.left.val);
             if(node.right!=null) leaves.add(node.right.val);
         }
@@ -31,28 +32,30 @@ class Solution {
                 break;
             }
         }
-        if(root==null) return null;
-        
-        if(!build(root,Long.MIN_VALUE, Long.MAX_VALUE,map)) return null;
 
-        if(map.size()!=1) return null;
+        if(root==null) return null;
+
+        if(!build(root,Long.MIN_VALUE,Long.MAX_VALUE,roots)) return null;
+
+        if(roots.size()!=1) return null ;
 
         return root;
     }
-
-    boolean build(TreeNode node, long low, long high, Map<Integer,TreeNode> map){
+    
+    public boolean build(TreeNode node, long low , long high, Map<Integer, TreeNode> roots){
         if(node==null) return true;
 
         if(node.val<=low || node.val>=high) return false;
 
         if(node.left==null && node.right==null && 
-        map.containsKey(node.val) && map.get(node.val)!=node){
-            TreeNode merge=map.get(node.val);
+        roots.containsKey(node.val) && roots.get(node.val)!=node){
+            TreeNode merge= roots.get(node.val);
             node.left=merge.left;
             node.right=merge.right;
-            map.remove(node.val);
+            roots.remove(node.val);
         }
 
-        return build(node.left,low,node.val,map) && build(node.right,node.val,high,map);
+        return build(node.left,low,node.val,roots) && build(node.right,node.val,high,roots);
     }
+    
 }
