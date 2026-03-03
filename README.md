@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/Anuragmishra12345/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -23,12 +24,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/Anuragmishra12345/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/Anuragmishra12345/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 ## String
 | Problem Name | Difficulty |
