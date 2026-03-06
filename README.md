@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Anuragmishra12345/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0547-number-of-provinces](https://github.com/Anuragmishra12345/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/Anuragmishra12345/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Anuragmishra12345/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Anuragmishra12345/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/Anuragmishra12345/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -98,9 +100,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Anuragmishra12345/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Anuragmishra12345/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/Anuragmishra12345/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Anuragmishra12345/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Anuragmishra12345/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Anuragmishra12345/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
