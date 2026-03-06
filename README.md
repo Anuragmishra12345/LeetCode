@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Anuragmishra12345/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Anuragmishra12345/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [2258-escape-the-spreading-fire](https://github.com/Anuragmishra12345/LeetCode/tree/main/2258-escape-the-spreading-fire/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Anuragmishra12345/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Anuragmishra12345/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
+| [2258-escape-the-spreading-fire](https://github.com/Anuragmishra12345/LeetCode/tree/main/2258-escape-the-spreading-fire/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
+| [2258-escape-the-spreading-fire](https://github.com/Anuragmishra12345/LeetCode/tree/main/2258-escape-the-spreading-fire/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Anuragmishra12345/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Anuragmishra12345/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [2258-escape-the-spreading-fire](https://github.com/Anuragmishra12345/LeetCode/tree/main/2258-escape-the-spreading-fire/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
