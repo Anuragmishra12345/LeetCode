@@ -10,15 +10,13 @@ class Solution {
         return image;
     }
     void dfs(int[][] image, int sr, int sc,int cc, int color, boolean[][] visited){
-        if(sr<0 || sc<0 || sr>=m || sc>=n) return;
-        if(image[sr][sc]==cc && !visited[sr][sc]) {
-            image[sr][sc]=color;
-            visited[sr][sc]=true;
-        }
-        else return;
+        image[sr][sc]=color;
+        visited[sr][sc]=true;
+        
         for(int[] d:dirs){
             int nr=sr+d[0];
             int nc=sc+d[1];
+            if(nr>=0 && nc>=0 && nr<m && nc<n && !visited[nr][nc] && image[nr][nc]==cc)
             dfs(image,nr,nc,cc,color,visited);
         }
     }
