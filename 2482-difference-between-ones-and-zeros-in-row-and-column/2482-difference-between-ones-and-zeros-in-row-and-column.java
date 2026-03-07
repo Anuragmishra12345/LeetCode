@@ -4,8 +4,7 @@ class Solution {
         int n=grid[0].length;
         int[] oneRow=new int[m];
         int[] oneCol=new int[n];
-        int[] zeroRow=new int[m];
-        int[] zeroCol=new int[n];
+
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==1){
@@ -13,14 +12,14 @@ class Solution {
                     oneCol[j]++;
                 }
                 else{
-                    zeroRow[i]++;
-                    zeroCol[j]++;
+                    oneRow[i]--;
+                    oneCol[j]--;
                 }
             }   
         }
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                grid[i][j]=oneRow[i]+oneCol[j]-zeroRow[i]-zeroCol[j];
+                grid[i][j]=oneRow[i]+oneCol[j];
             }
         }
         return grid;
