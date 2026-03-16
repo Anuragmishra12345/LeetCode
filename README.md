@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2258-escape-the-spreading-fire](https://github.com/Anuragmishra12345/LeetCode/tree/main/2258-escape-the-spreading-fire/) | Hard |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+| [2498-frog-jump-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2258-escape-the-spreading-fire](https://github.com/Anuragmishra12345/LeetCode/tree/main/2258-escape-the-spreading-fire/) | Hard |
+| [2498-frog-jump-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Anuragmishra12345/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [2498-frog-jump-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
