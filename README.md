@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0213-house-robber-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0403-frog-jump](https://github.com/Anuragmishra12345/LeetCode/tree/main/0403-frog-jump/) | Hard |
@@ -176,4 +177,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
