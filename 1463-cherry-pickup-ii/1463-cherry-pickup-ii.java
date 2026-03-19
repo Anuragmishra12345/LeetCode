@@ -19,13 +19,15 @@ class Solution {
             else return grid[r1][c1]+grid[r1][c2];
         }
         if(dp[r1][c1][c2]!=-1) return dp[r1][c1][c2];
-        int max=0;
+        int max=Integer.MIN_VALUE;
         for(int i=-1;i<=1;i++){
             for(int j=-1;j<=1;j++){
                 int value=0;
+                int next=f(grid,r1+1,c1+i,c2+j);
+                if(next==Integer.MIN_VALUE) continue;
                 if(c1==c2) value=grid[r1][c1];
                 else value=grid[r1][c1]+grid[r1][c2];
-                value+=f(grid,r1+1,c1+i,c2+j);
+                value+=next;
                 max=Math.max(max,value);
             }
         }
