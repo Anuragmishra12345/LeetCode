@@ -20,10 +20,12 @@ class Solution {
     boolean f(int[] arr, int target){
         int n=arr.length;
         boolean[] prev=new boolean[target+1];
-        boolean[] curr=new boolean[target+1];
-        prev[0]=curr[0]=true;
-        prev[arr[0]]=true;
+    
+        prev[0]=true;
+        if(arr[0]<= target) prev[arr[0]]=true;
         for(int i=1;i<n;i++){
+            boolean[] curr=new boolean[target+1];
+            curr[0]=true;
             for(int k=1;k<=target;k++){
                 boolean notTake=prev[k];
                 boolean take=false;
