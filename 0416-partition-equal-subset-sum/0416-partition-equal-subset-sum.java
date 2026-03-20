@@ -19,17 +19,19 @@ class Solution {
     }
     boolean f(int[] arr, int target){
         int n=arr.length;
-        boolean[][] dp=new boolean[n][target+1];
-        for(int i=0;i<n;i++) dp[i][0]=true;
-        if (arr[0] <= target) dp[0][arr[0]] = true;
+        boolean[] prev=new boolean[target+1];
+        boolean[] curr=new boolean[target+1];
+        prev[0]=curr[0]=true;
+        prev[arr[0]]=true;
         for(int i=1;i<n;i++){
             for(int k=1;k<=target;k++){
-                boolean notTake=dp[i-1][k];
+                boolean notTake=prev[k];
                 boolean take=false;
-                if(arr[i]<=k) take=dp[i-1][k-arr[i]];
-                dp[i][k]=take|| notTake;
+                if(arr[i]<=k) take=prev[k-arr[i]];
+                curr[k]=take|| notTake;
             }
+            prev=curr;
         }
-        return dp[n-1][target];
+        return prev[target];
     }
 }
