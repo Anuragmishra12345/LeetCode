@@ -4,7 +4,7 @@ class Solution {
     public int findTargetSumWays(int[] nums, int target) {
         int sum=0;
         for(int num:nums) sum+=num;
-        if (sum - target < 0 || (sum - target) % 2 != 0) return 0;
+        if (Math.abs(target) > sum || (sum - target) % 2 != 0) return 0;
         sum=(sum-target)/2;
 
         dp=new int[nums.length][sum+1];
