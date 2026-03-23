@@ -11,7 +11,7 @@ class Solution {
     }
     int f(int index, int[] coins, int amt){
         if(index==0){
-            if(amt%coins[0]==0) return amt/coins[0];
+            if(amt%coins[0]==0) return amt;
             else return INF;
         }
         if(dp[index][amt]!=-1) return dp[index][amt];
@@ -22,4 +22,11 @@ class Solution {
 
         return dp[index][amt]=Math.min(notTake,take);
     }
+    // public int coinChange(int[] coins, int amount) {
+    //     int n=coins.length;
+    //     int[][] dp=new int[n][amount+1];
+    //     int INF=(int)1e9;
+
+
+    // }
 }
