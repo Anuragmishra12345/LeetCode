@@ -21,26 +21,26 @@ class Solution {
     //     return dp[index][amt]=nt+t;
     // }
 
-    public int change(int amount, int[] coins) {
-        int n=coins.length;
-        int[] prev=new int[amount+1];
-        for(int i=0;i<=amount;i++){
-            if(i%coins[0]==0) prev[i]=1;
-            else prev[i]=0;
-        }
+    // public int change(int amount, int[] coins) {
+    //     int n=coins.length;
+    //     int[] prev=new int[amount+1];
+    //     for(int i=0;i<=amount;i++){
+    //         if(i%coins[0]==0) prev[i]=1;
+    //         else prev[i]=0;
+    //     }
 
-        for(int i=1;i<n;i++){
-            int[] curr=new int[amount+1];
-            for(int target=0;target<=amount;target++){
+    //     for(int i=1;i<n;i++){
+    //         int[] curr=new int[amount+1];
+    //         for(int target=0;target<=amount;target++){
 
-                int nt=prev[target];
-                int t=0;
-                if(coins[i]<=target) t=curr[target-coins[i]];
+    //             int nt=prev[target];
+    //             int t=0;
+    //             if(coins[i]<=target) t=curr[target-coins[i]];
 
-                curr[target]=nt+t;
-            }
-            prev=curr;
-        }
-        return prev[amount];
-    }
+    //             curr[target]=nt+t;
+    //         }
+    //         prev=curr;
+    //     }
+    //     return prev[amount];
+    // }
 }
