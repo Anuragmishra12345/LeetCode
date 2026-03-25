@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Anuragmishra12345/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0075-sort-colors](https://github.com/Anuragmishra12345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0120-triangle](https://github.com/Anuragmishra12345/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/Anuragmishra12345/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/0174-dungeon-game/) | Hard |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Anuragmishra12345/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/Anuragmishra12345/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Anuragmishra12345/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Anuragmishra12345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -222,5 +224,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Anuragmishra12345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
