@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anuragmishra12345/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0741-cherry-pickup](https://github.com/Anuragmishra12345/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anuragmishra12345/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anuragmishra12345/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Array
