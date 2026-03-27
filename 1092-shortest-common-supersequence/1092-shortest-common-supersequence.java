@@ -5,9 +5,20 @@ class Solution {
         int n2=s2.length();
 
         dp=new int[n1+1][n2+1];
-        for (int[] row : dp) Arrays.fill(row, -1);
+        // for (int[] row : dp) Arrays.fill(row, -1);
 
-        f(s1,s2,n1,n2);
+        // f(s1,s2,n1,n2);
+
+        for(int i=1; i<=n1;i++){
+            for(int j=1;j<=n2;j++){
+
+                if(s1.charAt(i-1)==s2.charAt(j-1)){
+                    dp[i][j]=1+dp[i-1][j-1];
+                }
+                else dp[i][j]=Math.max(dp[i][j-1],dp[i-1][j]);
+            }
+        }
+
         return subSequence(n1,n2,s1,s2);
     }
     int f(String s1, String s2, int i, int j){
