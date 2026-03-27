@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anuragmishra12345/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Backtracking
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0741-cherry-pickup](https://github.com/Anuragmishra12345/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
+| [1092-shortest-common-supersequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anuragmishra12345/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
