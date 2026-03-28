@@ -1,4 +1,5 @@
 class Solution {
+// DP recursive
     // int[][] dp;
     // int n;
     // public int maxProfit(int[] prices) {
@@ -24,12 +25,34 @@ class Solution {
     //     return dp[index][status]=(int)profit;
     // } 
 
+// DP Tabulation 1D
+    public int maxProfit(int[] prices) {
+        int n=prices.length;
+        int[] dp=new int[2];
 
-    public int maxProfit(int[] prices){
-        int profit=0;
-        for(int i=1;i<prices.length;i++){
-            if(prices[i]>prices[i-1]) profit+=prices[i]-prices[i-1];
+        for(int i=n-1;i>=0;i--){
+            int[] curr=new int[2];
+            int profit=0;
+            for(int j=0;j<=1;j++){
+                if(j==1){
+                    profit=Math.max(-prices[i]+dp[0],dp[1]);
+                }
+                else {
+                    profit=Math.max(prices[i]+dp[1],dp[0]);
+                }
+                curr[j]=profit;
+            }
+            dp=curr;
         }
-        return profit;
+        return dp[1];
     }
+
+// Greedy
+    // public int maxProfit(int[] prices){
+    //     int profit=0;
+    //     for(int i=1;i<prices.length;i++){
+    //         if(prices[i]>prices[i-1]) profit+=prices[i]-prices[i-1];
+    //     }
+    //     return profit;
+    // }
 }
