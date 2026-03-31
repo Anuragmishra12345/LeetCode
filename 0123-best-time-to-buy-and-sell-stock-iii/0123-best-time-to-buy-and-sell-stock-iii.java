@@ -1,4 +1,6 @@
 class Solution {
+// Recursive 
+
     // int[][][] dp;
     // public int maxProfit(int[] prices) {
     //     int n=prices.length;
@@ -24,22 +26,48 @@ class Solution {
     //     return dp[index][status][t]=(int)profit;
     // }
 
+//  Tabulation 3D
+
+    // public int maxProfit(int[] prices) {
+    //     int n=prices.length;
+    //     int[][][] dp=new int[n+1][2][3];
+
+    //     for(int i=n-1;i>=0;i--){
+    //         for(int j=0;j<2;j++){
+    //             for(int t=1;t<=2;t++){
+                    // if(j==1){
+                    //     dp[i][j][t]=Math.max(-prices[i]+dp[i+1][0][t], dp[i+1][1][t]);
+                    // }
+                    // else {
+                    //     dp[i][j][t]=Math.max(prices[i]+dp[i+1][1][t-1], dp[i+1][0][t]);
+                    // }
+    //             }
+    //         }
+    //     }
+    //     return dp[0][1][2];
+    // }
+
+// Tabulation 2D
+
     public int maxProfit(int[] prices) {
         int n=prices.length;
-        int[][][] dp=new int[n+1][2][3];
+
+        int[][] ahead=new int[2][3];
+        int[][] curr=new int[2][3];
 
         for(int i=n-1;i>=0;i--){
             for(int j=0;j<2;j++){
                 for(int t=1;t<=2;t++){
                     if(j==1){
-                        dp[i][j][t]=Math.max(-prices[i]+dp[i+1][0][t], dp[i+1][1][t]);
+                        curr[j][t]=Math.max(-prices[i]+ahead[0][t], ahead[1][t]);
                     }
                     else {
-                        dp[i][j][t]=Math.max(prices[i]+dp[i+1][1][t-1], dp[i+1][0][t]);
+                        curr[j][t]=Math.max(prices[i]+ahead[1][t-1], ahead[0][t]);
                     }
                 }
             }
+            ahead=curr.clone();
         }
-        return dp[0][1][2];
-    }
+        return ahead[1][2];
+    }    
 }
