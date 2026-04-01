@@ -22,19 +22,44 @@ class Solution {
 
     //     return dp[index][status]=profit;
     // }
+// Tabulation 2D
+    // public int maxProfit(int[] prices) {
+    //     int n=prices.length;
+    //     int[][] dp=new int[n+1][2];
 
+    //     for(int i=n-1;i>=0;i--){
+    //         for(int j=0;j<2;j++){
+    //             if(j==1){
+    //                 dp[i][j]=Math.max(-prices[i]+dp[i+1][0],dp[i+1][1]);
+    //             }
+    //             else dp[i][j]=Math.max(prices[i]+(i+2<=n? dp[i+2][1]:0),dp[i+1][0]);
+    //         }
+    //     }
+    //     return dp[0][1];
+    // }
+
+// Tabulation O(1)
     public int maxProfit(int[] prices) {
         int n=prices.length;
-        int[][] dp=new int[n+1][2];
 
-        for(int i=n-1;i>=0;i--){
-            for(int j=0;j<2;j++){
-                if(j==1){
-                    dp[i][j]=Math.max(-prices[i]+dp[i+1][0],dp[i+1][1]);
-                }
-                else dp[i][j]=Math.max(prices[i]+(i+2<=n? dp[i+2][1]:0),dp[i+1][0]);
-            }
+        int aheadBuy=0;
+        int aheadSell=0;
+        int ahead2Buy=0;
+
+        for(int i = n - 1; i >= 0; i--){
+            int currBuy = Math.max(
+            -prices[i] + aheadSell,
+            aheadBuy
+        );
+
+        int currSell = Math.max(
+            prices[i] + ahead2Buy,
+            aheadSell
+        );
+        ahead2Buy = aheadBuy;
+        aheadBuy = currBuy;
+        aheadSell = currSell;
         }
-        return dp[0][1];
+    return aheadBuy;
     }
 }
