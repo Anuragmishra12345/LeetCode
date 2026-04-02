@@ -8,7 +8,6 @@ class Solution {
         int n2=text2.length();
 
         int[] dp=new int[n2+1];
-        for(int j=0;j<=n2;j++) dp[j]=0;
 
         for(int i=1;i<=n1;i++){
             int[] curr=new int[n2+1];
