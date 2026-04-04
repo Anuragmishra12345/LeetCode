@@ -15,16 +15,30 @@ class Solution {
         //     maxLen = Math.max(maxLen, right - left + 1);
         // }
         // return maxLen;
+        // int left=0;
+        // int len=0;
+        // Set<Character> set=new HashSet<>();
+        // for(int right=0;right<s.length();right++){
+        //     char ch=s.charAt(right);
+        //     while(set.contains(ch)){
+        //         set.remove(s.charAt(left));
+        //         left++;
+        //     }
+        //     set.add(ch);
+        //     len=Math.max(len,right-left+1);
+        // }
+        // return len;
+
         int left=0;
         int len=0;
         Set<Character> set=new HashSet<>();
         for(int right=0;right<s.length();right++){
-            char ch=s.charAt(right);
-            while(set.contains(ch)){
+            char c=s.charAt(right);
+            while(set.contains(c)){
                 set.remove(s.charAt(left));
                 left++;
             }
-            set.add(ch);
+            set.add(c);
             len=Math.max(len,right-left+1);
         }
         return len;
