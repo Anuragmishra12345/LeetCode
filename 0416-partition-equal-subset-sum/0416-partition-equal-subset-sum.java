@@ -1,4 +1,5 @@
 class Solution {
+    Boolean[][] dp;
     public boolean canPartition(int[] nums) {
         int sum=0;
         int n=nums.length;
@@ -14,26 +15,38 @@ class Solution {
         //     }
         // }
         // return dp[target];
-        return f(nums,target);
+        dp=new Boolean[n][target+1];
+        return f(nums,n-1,target);
         
     }
-    boolean f(int[] arr, int target){
-        int n=arr.length;
-        boolean[] prev=new boolean[target+1];
+    // boolean f(int[] arr, int target){
+    //     int n=arr.length;
+    //     boolean[] prev=new boolean[target+1];
     
-        prev[0]=true;
-        if(arr[0]<= target) prev[arr[0]]=true;
-        for(int i=1;i<n;i++){
-            boolean[] curr=new boolean[target+1];
-            curr[0]=true;
-            for(int k=1;k<=target;k++){
-                boolean notTake=prev[k];
-                boolean take=false;
-                if(arr[i]<=k) take=prev[k-arr[i]];
-                curr[k]=take|| notTake;
-            }
-            prev=curr;
-        }
-        return prev[target];
+    //     prev[0]=true;
+    //     if(arr[0]<= target) prev[arr[0]]=true;
+    //     for(int i=1;i<n;i++){
+    //         boolean[] curr=new boolean[target+1];
+    //         curr[0]=true;
+    //         for(int k=1;k<=target;k++){
+    //             boolean notTake=prev[k];
+    //             boolean take=false;
+    //             if(arr[i]<=k) take=prev[k-arr[i]];
+    //             curr[k]=take|| notTake;
+    //         }
+    //         prev=curr;
+    //     }
+    //     return prev[target];
+    // }
+    boolean f(int[] nums, int index,int target){
+        if(target==0) return true;
+        if (index == 0) return nums[0] == target;
+        if (dp[index][target] != null) return dp[index][target];
+
+        boolean notTake=f(nums,index-1,target);
+        boolean take=false;
+        if(nums[index]<=target) take=f(nums,index-1,target-nums[index]);
+
+        return dp[index][target]=take||notTake;
     }
 }
