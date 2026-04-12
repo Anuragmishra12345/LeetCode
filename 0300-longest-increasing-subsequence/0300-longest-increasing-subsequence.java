@@ -58,6 +58,7 @@
 
 class Solution {
     public int lengthOfLIS(int[] nums) {
+        int max=1;
         int n=nums.length; 
         int[] dp=new int[n];
         Arrays.fill(dp,1);
@@ -65,7 +66,8 @@ class Solution {
             for(int j=0;j<i;j++){
                 if(nums[i]>nums[j]) dp[i]=Math.max(dp[i],1+dp[j]);
             }
+            max=Math.max(max,dp[i]);
         }
-        return dp[n-1];
+        return max;
     }
 }
