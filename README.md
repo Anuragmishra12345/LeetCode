@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anuragmishra12345/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anuragmishra12345/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0741-cherry-pickup](https://github.com/Anuragmishra12345/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
+| [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anuragmishra12345/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anuragmishra12345/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -197,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/Anuragmishra12345/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
 | [0567-permutation-in-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
@@ -264,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
+| [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Anuragmishra12345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0455-assign-cookies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
