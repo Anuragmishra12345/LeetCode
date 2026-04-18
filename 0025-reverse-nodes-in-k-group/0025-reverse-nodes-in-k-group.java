@@ -64,15 +64,16 @@ class Solution {
             ListNode last=prev;
             ListNode newEnd=curr;
 
+            ListNode prevNode = null;
             for(int i=0;i<k && curr!=null;i++){
                 ListNode next=curr.next;
-                curr.next=prev;
-                prev=curr;
+                curr.next=prevNode;
+                prevNode=curr;
                 curr=next;
             }
 
-            if(last!=null) last.next=prev;
-            else head=prev;
+            if(last!=null) last.next=prevNode;
+            else head=prevNode;
 
             newEnd.next=curr;
             prev=newEnd;
