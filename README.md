@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Anuragmishra12345/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Anuragmishra12345/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Anuragmishra12345/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Anuragmishra12345/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
