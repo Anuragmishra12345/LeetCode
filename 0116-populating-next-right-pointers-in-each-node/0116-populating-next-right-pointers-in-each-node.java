@@ -23,27 +23,53 @@ class Node {
 
 class Solution {
     public Node connect(Node root) {
-        dfs(root);
+        levelOrderTraversal(root);
         return root;
     }
-    private void dfs(Node root){
+
+    void levelOrderTraversal(Node root){
         if(root==null) return;
-        Queue<Node> queue=new LinkedList<>();
-        queue.add(root);
-        while(!queue.isEmpty()){
-            int size=queue.size();
+        Queue<Node> q=new LinkedList<>();
+        q.add(root);
+        while(!q.isEmpty()){
             Node prev=null;
-            
+            int size=q.size();
+
             for(int i=0;i<size;i++){
-                Node curr=queue.poll();
-                if(prev!=null){
-                    prev.next=curr;
-                }
+                Node curr=q.poll();
+                if(prev!=null) prev.next=curr;
                 prev=curr;
-            
-                if(curr.left != null) queue.add(curr.left);
-                if(curr.right != null) queue.add(curr.right);
+                if(prev.left!=null) q.add(prev.left);
+                if(prev.right!=null) q.add(prev.right);
             }
         }
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
