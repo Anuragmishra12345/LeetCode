@@ -16,20 +16,34 @@
 class Solution {
     int ans=Integer.MIN_VALUE;
 
+    // public int maxPathSum(TreeNode root) {
+    //     dfs(root);
+    //     return ans;
+    // }
+    // int dfs(TreeNode root){
+    //     if(root==null) return 0;
+
+    //     int leftSum=Math.max(0,dfs(root.left));
+    //     int rightSum=Math.max(0,dfs(root.right));
+
+    //     ans=Math.max(ans,leftSum+rightSum+root.val);
+
+    //     return root.val+Math.max(leftSum, rightSum);
+    // }
+
     public int maxPathSum(TreeNode root) {
         dfs(root);
         return ans;
     }
+
     int dfs(TreeNode root){
         if(root==null) return 0;
 
-        int leftSum=Math.max(0,dfs(root.left));
-        int rightSum=Math.max(0,dfs(root.right));
+        int left=Math.max(0,dfs(root.left));
+        int right=Math.max(0,dfs(root.right));
 
-       
+        ans=Math.max(ans,left+right+root.val);
 
-        ans=Math.max(ans,leftSum+rightSum+root.val);
-
-        return root.val+Math.max(leftSum, rightSum);
+        return root.val+Math.max(left,right);
     }
 }
