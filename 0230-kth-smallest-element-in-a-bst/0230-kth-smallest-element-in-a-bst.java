@@ -17,17 +17,28 @@ class Solution {
     int count=0;
     int ans=0;
     public int kthSmallest(TreeNode root, int k) {
-        traversal(root,k);
+        dfs(root,k);
         return ans;
     }
-    void traversal(TreeNode root,int k){
-        if(root==null) return;
-        traversal(root.left,k);
+    // void traversal(TreeNode root,int k){
+    //     if(root==null) return;
+    //     traversal(root.left,k);
+    //     count++;
+    //     if(count==k){
+    //         ans=root.val;
+    //         return;
+    //     }
+    //     traversal(root.right,k);
+    // }
+
+    void dfs(TreeNode root, int k){
+        if(root==null) return ;
+        dfs(root.left,k);
         count++;
-        if(count==k){
+        if(count==k) {
             ans=root.val;
             return;
         }
-        traversal(root.right,k);
+        dfs(root.right,k);
     }
 }
