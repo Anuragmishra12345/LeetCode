@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Anuragmishra12345/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0127-word-ladder](https://github.com/Anuragmishra12345/LeetCode/tree/main/0127-word-ladder/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0140-word-break-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0140-word-break-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0174-dungeon-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
