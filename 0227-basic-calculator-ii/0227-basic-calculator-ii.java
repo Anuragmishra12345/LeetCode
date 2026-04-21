@@ -1,27 +1,35 @@
 class Solution {
     public int calculate(String s) {
-        Stack<Integer> stack=new Stack<>();
+        if (s == null || s.isEmpty()) return 0;
+        int result=0;
         char sign='+';
         int num=0;
+        int lastNum=0;
 
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
-            if(Character.isDigit(ch)){
+            if(ch>='0' && ch<='9'){
                 num=num*10+(ch-'0');
             }
-            if((!Character.isDigit(ch) && ch!=' ') || i==s.length()-1){
-                if(sign=='+') stack.push(num);
-                else if(sign=='-') stack.push(-num);
-                else if(sign=='*') stack.push(stack.pop()*num);
-                else if(sign=='/') stack.push(stack.pop()/num);
-
+            if((!(ch>='0' && ch<='9') && ch!=' ') || i==s.length()-1){
+                if(sign=='+') {
+                    result+=lastNum;
+                    lastNum=num;
+                }
+                else if(sign=='-') {
+                    result+=lastNum;
+                    lastNum=num;
+                }
+                else if(sign=='*') {
+                    lastNum*=num;
+                }
+                else if(sign=='/') {
+                    lastNum/=num;
+                }
                 sign=ch;
                 num=0;
             }  
         }
-        int result=0;
-        for(int val:stack) result+=val;
-
-        return result;
+        return result+lastNum;
     }
 }
