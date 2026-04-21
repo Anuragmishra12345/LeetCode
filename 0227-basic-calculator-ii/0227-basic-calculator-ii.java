@@ -18,7 +18,7 @@ class Solution {
                 }
                 else if(sign=='-') {
                     result+=lastNum;
-                    lastNum=num;
+                    lastNum=-num;
                 }
                 else if(sign=='*') {
                     lastNum*=num;
