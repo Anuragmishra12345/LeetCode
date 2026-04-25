@@ -1,35 +1,45 @@
 class Solution {
-    public int[] findOrder(int numCourses, int[][] prerequisites) {
+    boolean[] visited;
+    boolean[] path;
+    public int[] findOrder(int numCourses, int[][] pr) {
+        visited=new boolean[numCourses];
+        path = new boolean[numCourses];
+        Stack<Integer> stack=new Stack<>();
+
         List<List<Integer>> adj=new ArrayList<>();
         for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
         }
-        int[] indegree=new int[numCourses];
-        for(int[] p:prerequisites){
-            int course=p[0];
-            int pre=p[1];
-
-            adj.get(pre).add(course);
-            indegree[course]++;
+        for(int[] it:pr){
+            adj.get(it[1]).add(it[0]);
         }
-        Queue<Integer> q=new LinkedList<>();
+
         for(int i=0;i<numCourses;i++){
-            if(indegree[i]==0){
-                q.add(i);
+            if(!visited[i]) {
+                if(dfs(i, adj, stack)) return new int[0]; 
             }
         }
-        int[] order = new int[numCourses];
-        int index=0;
 
-        while(!q.isEmpty()){
-            int node=q.poll();
-            order[index++]=node;
-
-            for(int neigh:adj.get(node)){
-                indegree[neigh]--;
-                if(indegree[neigh]==0) q.add(neigh);
-            }
+        int[] result=new int[numCourses];
+        int i=0;
+        while(!stack.isEmpty()){
+            result[i++]=stack.pop();
         }
-        return (index==numCourses)? order:new int[0];
+        return result;
     }
-}
+    public boolean dfs(int node,List<List<Integer>> adj,Stack<Integer> stack){
+        visited[node]=true;
+        path[node]=true;
+        for(int n:adj.get(node)){
+            if(!visited[n]){
+                if(dfs(n, adj, stack)) return true;
+            }
+            else if(path[n]){
+                return true; 
+            }
+        }
+        stack.push(node);
+        path[node]=false;
+        return false;
+    }
+}    
