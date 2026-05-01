@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Anuragmishra12345/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/Anuragmishra12345/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Anuragmishra12345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0090-subsets-ii/) | Medium |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/Anuragmishra12345/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0224-basic-calculator](https://github.com/Anuragmishra12345/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
