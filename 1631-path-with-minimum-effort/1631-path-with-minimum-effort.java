@@ -32,6 +32,8 @@ class Solution {
                 int nr=r+dir[i][0];
                 int nc=c+dir[i][1];
 
+                if (r == m - 1 && c == n - 1) return d;
+
                 if(nr>=0 && nr<m && nc>=0 && nc<n){
                     int effort=Math.max(Math.abs(heights[r][c]-heights[nr][nc]),d);
                     if(effort<diff[nr][nc]){
