@@ -25,11 +25,13 @@ class Solution {
             int dist=it.first;
             int r=it.second;
             int c=it.third;
+            
+            if(dist>path[r][c]) continue;
 
             for(int i=0;i<8;i++){
                 int nr=r+dir[i][0];
                 int nc=c+dir[i][1];
-                if(dist>path[r][c]) continue;
+            
                 if(nr>=0 && nr<n && nc<n && nc>=0 && grid[nr][nc]==0 && dist+1<path[nr][nc]){
                     path[nr][nc]=dist+1;
                     q.add(new Tuple(dist+1,nr,nc));
