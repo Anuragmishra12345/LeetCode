@@ -46,8 +46,6 @@ class Solution {
             int node=t.node;
             int distance=t.dist;
 
-            if(stop>k) continue;
-
             for(Pair p:adj.get(node)){
                 int adjNode=p.node;
                 int adjDist=p.dist;
