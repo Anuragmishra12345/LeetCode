@@ -30,9 +30,9 @@ class Solution {
         pq.add(new Pair(k,0));
 
         while(!pq.isEmpty()){
-            int node=pq.peek().node;
-            int time=pq.peek().time;
-            pq.poll();
+            Pair curr = pq.poll();
+            int node = curr.node;
+            int time = curr.time;
 
             if(timesArray[node]<time) continue;
 
