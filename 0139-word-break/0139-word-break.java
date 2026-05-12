@@ -13,7 +13,7 @@ class Solution {
         for(int i=index;i<s.length();i++){
             String curr=s.substring(index,i+1);
             if(set.contains(curr)){
-                if(backtrack(s,i+1,set)) return true;
+                if(backtrack(s,i+1,set)) return dp[index]=true;
             }
         }
         return dp[index]=false;
