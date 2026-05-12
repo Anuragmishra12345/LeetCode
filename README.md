@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/Anuragmishra12345/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0136-single-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0140-word-break-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Anuragmishra12345/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0174-dungeon-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/0174-dungeon-game/) | Hard |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/0136-single-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
