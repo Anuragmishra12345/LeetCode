@@ -15,11 +15,12 @@ class Solution {
         // return new int[] {-1,-1};
 
         Map<Integer,Integer> map=new HashMap<>();
-        for(int i=0;i<nums.length;i++){
+        int len=nums.length;
+        for(int i=0;i<len;i++){
             map.put(nums[i],i);
         }
 
-        for(int i=0;i<nums.length;i++){
+        for(int i=0;i<len;i++){
             int needed=target-nums[i];
             if(map.containsKey(needed) && map.get(needed)!=i){
                 return new int[] {i,map.get(needed)};
