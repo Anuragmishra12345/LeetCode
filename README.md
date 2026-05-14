@@ -388,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Anuragmishra12345/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/Anuragmishra12345/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0062-unique-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Anuragmishra12345/LeetCode/tree/main/0066-plus-one/) | Easy |
