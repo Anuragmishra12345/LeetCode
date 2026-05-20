@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/Anuragmishra12345/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Anuragmishra12345/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0067-add-binary](https://github.com/Anuragmishra12345/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/Anuragmishra12345/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Anuragmishra12345/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0087-scramble-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0087-scramble-string/) | Hard |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0067-add-binary](https://github.com/Anuragmishra12345/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 ## Recursion
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0062-unique-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Anuragmishra12345/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Anuragmishra12345/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/Anuragmishra12345/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -422,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Anuragmishra12345/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/0136-single-number/) | Easy |
