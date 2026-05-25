@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Anuragmishra12345/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0224-basic-calculator](https://github.com/Anuragmishra12345/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Anuragmishra12345/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Anuragmishra12345/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/Anuragmishra12345/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
