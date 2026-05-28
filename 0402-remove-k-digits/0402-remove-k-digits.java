@@ -26,7 +26,7 @@ class Solution {
             if(sb.charAt(0)=='0') sb.deleteCharAt(0);
             else break;
         }
-        if(sb.length()==0) sb.append('0');
-        return sb.toString();
+
+        return (sb.length()==0)?"0":sb.toString();
     }
 }
