@@ -10,7 +10,7 @@ class Solution {
     }
     public String reorganizeString(String s) {
         Map<Character,Integer> map=new HashMap<>();
-        PriorityQueue<Pair> pq=new PriorityQueue<>((a,b)->b.freq-a.freq);
+        PriorityQueue<Pair> pq=new PriorityQueue<>((a,b)->Integer.compare(b.freq,a.freq));
         for(char ch:s.toCharArray()){
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
@@ -31,8 +31,13 @@ class Solution {
             result.append(p1.ch);
             if(p2!=null) result.append(p2.ch);
 
-            if(p1.freq>1) pq.offer(new Pair(p1.ch,p1.freq-1));
-            if(p2!=null && p2.freq>1) pq.offer(new Pair(p2.ch,p2.freq-1));
+            p1.freq--;
+            if(p1.freq > 0) pq.offer(p1);
+
+            if(p2!=null){
+                p2.freq--;
+                if(p2.freq > 0) pq.offer(p2);
+            } 
         }
         return result.toString();
     }
