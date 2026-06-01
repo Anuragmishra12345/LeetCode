@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/Anuragmishra12345/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anuragmishra12345/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/Anuragmishra12345/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/Anuragmishra12345/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0224-basic-calculator](https://github.com/Anuragmishra12345/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/Anuragmishra12345/LeetCode/tree/main/1106-parsing-a-boolean-expression/) | Hard |
@@ -443,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Anuragmishra12345/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/Anuragmishra12345/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0043-multiply-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0050-powx-n](https://github.com/Anuragmishra12345/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Anuragmishra12345/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Anuragmishra12345/LeetCode/tree/main/0067-add-binary/) | Easy |
