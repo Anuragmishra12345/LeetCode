@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0403-frog-jump](https://github.com/Anuragmishra12345/LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0436-find-right-interval](https://github.com/Anuragmishra12345/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0480-sliding-window-median](https://github.com/Anuragmishra12345/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Anuragmishra12345/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Anuragmishra12345/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0436-find-right-interval](https://github.com/Anuragmishra12345/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
@@ -471,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Anuragmishra12345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0436-find-right-interval](https://github.com/Anuragmishra12345/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
