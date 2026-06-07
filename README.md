@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Anuragmishra12345/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/Anuragmishra12345/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0022-generate-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anuragmishra12345/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Anuragmishra12345/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/Anuragmishra12345/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0062-unique-paths/) | Medium |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Anuragmishra12345/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Anuragmishra12345/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anuragmishra12345/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/Anuragmishra12345/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
