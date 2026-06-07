@@ -35,13 +35,11 @@ class Solution {
 
             set.add(c);
         }
-        TreeNode root=null;
         for(Map.Entry<Integer,TreeNode> entry:map.entrySet()){
             if(!set.contains(entry.getKey())) {
-                root=entry.getValue();
-                break;
+                return entry.getValue();
             }
         }
-        return root;
+        return null;
     }
 }
