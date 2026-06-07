@@ -4,22 +4,39 @@ class Solution {
         dp=new Integer[s1.length()+1][s2.length()+1];
         return solve(s1,s2,0,0);
     }
-    int solve(String s1, String s2, int i, int j){
-        if(i==s1.length() && j==s2.length()) return 0;
+    int solve(String s1, String s2, int i, int j) {
 
-        if(dp[i][j]!=null) return dp[i][j];
-
-        int ans=Integer.MAX_VALUE;
-
-        if(i<s1.length() && j<s2.length() && s1.charAt(i)==s2.charAt(j)) ans=solve(s1,s2,i+1,j+1);
-        else{
-            int left=Integer.MAX_VALUE;
-            if(i<s1.length()) left=s1.charAt(i) + solve(s1,s2,i+1,j);
-            int right=Integer.MAX_VALUE;
-            if(j<s2.length()) right=s2.charAt(j) + solve(s1,s2,i,j+1);
-
-            ans=Math.min(ans,Math.min(left,right));
-        }
-        return dp[i][j]=ans;
+    if(i == s1.length()) {
+        int sum = 0;
+        for(int k=j;k<s2.length();k++)
+            sum += s2.charAt(k);
+        return sum;
     }
+
+    if(j == s2.length()) {
+        int sum = 0;
+        for(int k=i;k<s1.length();k++)
+            sum += s1.charAt(k);
+        return sum;
+    }
+
+    if(dp[i][j] != null)
+        return dp[i][j];
+
+    if(s1.charAt(i) == s2.charAt(j)) {
+        return dp[i][j] =
+                solve(s1,s2,i+1,j+1);
+    }
+
+    int deleteS1 =
+            s1.charAt(i)
+            + solve(s1,s2,i+1,j);
+
+    int deleteS2 =
+            s2.charAt(j)
+            + solve(s1,s2,i,j+1);
+
+    return dp[i][j] =
+            Math.min(deleteS1, deleteS2);
+}
 }
