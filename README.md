@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anuragmishra12345/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0788-rotated-digits](https://github.com/Anuragmishra12345/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Anuragmishra12345/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1035-uncrossed-lines](https://github.com/Anuragmishra12345/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1035-uncrossed-lines](https://github.com/Anuragmishra12345/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Anuragmishra12345/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
