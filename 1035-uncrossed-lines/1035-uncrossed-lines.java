@@ -11,15 +11,9 @@ class Solution {
 
         int ans=0;
 
-        if(nums1[i]==nums2[j]){
-            int take=1+solve(nums1,nums2,i+1,j+1);
-            int notTake=Math.max(solve(nums1,nums2,i,j+1),solve(nums1,nums2,i+1,j));
-
-            ans=Math.max(take,notTake);
-        }
-        else{
-            ans=Math.max(ans,Math.max(solve(nums1,nums2,i,j+1),solve(nums1,nums2,i+1,j)));
-        }
+        if(nums1[i]==nums2[j]) ans=Math.max(ans,1+solve(nums1,nums2,i+1,j+1));
+        
+        ans=Math.max(ans,Math.max(solve(nums1,nums2,i,j+1),solve(nums1,nums2,i+1,j)));
         return dp[i][j]=ans;
     }
 }
