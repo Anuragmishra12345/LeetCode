@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Anuragmishra12345/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0343-integer-break](https://github.com/Anuragmishra12345/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0403-frog-jump](https://github.com/Anuragmishra12345/LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0494-target-sum/) | Medium |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0318-maximum-product-of-word-lengths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0322-coin-change](https://github.com/Anuragmishra12345/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0403-frog-jump](https://github.com/Anuragmishra12345/LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0436-find-right-interval](https://github.com/Anuragmishra12345/LeetCode/tree/main/0436-find-right-interval/) | Medium |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Anuragmishra12345/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/Anuragmishra12345/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0402-remove-k-digits](https://github.com/Anuragmishra12345/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
