@@ -7,7 +7,7 @@ class Solution {
             int p=pt[0];
             int q=pt[1];
 
-            double dist=Math.sqrt(p*p+q*q);
+            double dist=p*p+q*q;
 
             pq.offer(new double[]{dist,p,q});
         }
