@@ -1,24 +1,26 @@
 class Solution {
-    public void sortColors(int[] nums){
-        int low=0,mid=0,high=nums.length-1;
-        while(mid<=high){
-            if(nums[mid]==0){
-                swap(nums,mid,low);
-                low++;
-                mid++;
-            }else if(nums[mid]==1){
-                mid++;
-            }else{
-                swap(nums,mid,high);
-                high--;
-            }
-        }
-    }
-    public void swap(int[] nums,int first,int second){
-        int temp=nums[first];
-        nums[first]=nums[second];
-        nums[second]=temp;
-    }
+    // public void sortColors(int[] nums){
+    //     int low=0,mid=0,high=nums.length-1;
+    //     while(mid<=high){
+    //         if(nums[mid]==0){
+    //             swap(nums,mid,low);
+    //             low++;
+    //             mid++;
+    //         }else if(nums[mid]==1){
+    //             mid++;
+    //         }else{
+    //             swap(nums,mid,high);
+    //             high--;
+    //         }
+    //     }
+    // }
+    // public void swap(int[] nums,int first,int second){
+    //     int temp=nums[first];
+    //     nums[first]=nums[second];
+    //     nums[second]=temp;
+    // }
+
+
     // public void sortColors(int[] nums) {
     //     int zero=0;
     //     int one=0;
@@ -43,4 +45,24 @@ class Solution {
     //         }
     //     }
     // }
+
+    public void sortColors(int[] nums){
+        int red=0;
+        int white=0;
+
+        for(int n:nums){
+            if(n==0) red++;
+            else if(n==1) white++;
+        }
+
+        for(int i=0;i<red;i++){
+            nums[i]=0;
+        }
+        for(int i=red;i<red+white;i++){
+            nums[i]=1;
+        }
+        for(int i=red+white;i<nums.length;i++){
+            nums[i]=2;
+        }
+    }
 }
