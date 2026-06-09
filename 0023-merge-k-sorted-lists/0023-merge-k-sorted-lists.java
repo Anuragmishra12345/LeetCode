@@ -39,19 +39,21 @@ class Solution {
 
     public ListNode mergeKLists(ListNode[] lists) {
         PriorityQueue<ListNode> pq=new PriorityQueue<>((a,b)->(a.val-b.val));
+
         for(ListNode list:lists){
-            while(list!=null){
-                pq.offer(list);
-                list=list.next;
-            }
+           if(list!=null) pq.offer(list);
         }
+
         ListNode dummy=new ListNode(0);
         ListNode runner =dummy;
         while(!pq.isEmpty()){
-            runner.next=pq.poll();
+            ListNode curr=pq.poll();
+            runner.next=curr;
             runner=runner.next;
+
+            if(curr.next!=null) pq.offer(curr.next);
         }
-        runner.next=null;
+
         return dummy.next;
     }
 }
