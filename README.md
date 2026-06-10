@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Anuragmishra12345/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/Anuragmishra12345/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Anuragmishra12345/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Anuragmishra12345/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
