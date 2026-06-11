@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Anuragmishra12345/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anuragmishra12345/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Anuragmishra12345/LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anuragmishra12345/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anuragmishra12345/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anuragmishra12345/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anuragmishra12345/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Anuragmishra12345/LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anuragmishra12345/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/Anuragmishra12345/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
