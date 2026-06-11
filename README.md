@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0403-frog-jump](https://github.com/Anuragmishra12345/LeetCode/tree/main/0403-frog-jump/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Anuragmishra12345/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0403-frog-jump](https://github.com/Anuragmishra12345/LeetCode/tree/main/0403-frog-jump/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0436-find-right-interval](https://github.com/Anuragmishra12345/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Anuragmishra12345/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0436-find-right-interval](https://github.com/Anuragmishra12345/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0704-binary-search](https://github.com/Anuragmishra12345/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -484,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0402-remove-k-digits](https://github.com/Anuragmishra12345/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/Anuragmishra12345/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -581,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
