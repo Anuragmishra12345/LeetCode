@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Anuragmishra12345/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anuragmishra12345/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1340-jump-game-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anuragmishra12345/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Anuragmishra12345/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anuragmishra12345/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anuragmishra12345/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2258-escape-the-spreading-fire](https://github.com/Anuragmishra12345/LeetCode/tree/main/2258-escape-the-spreading-fire/) | Hard |
