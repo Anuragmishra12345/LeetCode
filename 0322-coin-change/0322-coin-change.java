@@ -1,27 +1,27 @@
 class Solution {
-    // int[][] dp;
-    // int INF=(int)1e9;
-    // public int coinChange(int[] coins, int amount) {
-    //     int n=coins.length;
-    //     dp=new int[n][amount+1];
-    //     for(int[] row:dp) Arrays.fill(row,-1);
+    int[][] dp;
+    int INF=Integer.MAX_VALUE;
+    public int coinChange(int[] coins, int amount) {
+        int n=coins.length;
+        dp=new int[n][amount+1];
+        for(int[] row:dp) Arrays.fill(row,-1);
+        int result=bfs(coins,n-1,amount);
+        return result==INF?-1:result;
+    }
+    int bfs(int[] coins, int index, int amount){
+        if(amount==0) return 0;
 
-    //     int ans = f(n - 1, coins, amount);
-    //     return ans >= INF ? -1 : ans;
-    // }
-    // int f(int index, int[] coins, int amt){
-    //     if(index==0){
-    //         if(amt%coins[0]==0) return amt/coins[0];
-    //         else return INF;
-    //     }
-    //     if(dp[index][amt]!=-1) return dp[index][amt];
+        if(amount< 0 || index<0) return INF;
+        
+        if(dp[index][amount]!=-1) return dp[index][amount];
 
-    //     int notTake=0+f(index-1,coins,amt);
-    //     int take=INF;
-    //     if(coins[index]<=amt) take=1+f(index,coins,amt-coins[index]);
+        int notTake=bfs(coins,index-1,amount);
+        int take=bfs(coins,index,amount-coins[index]);
+        if(take!=INF) take++;
 
-    //     return dp[index][amt]=Math.min(notTake,take);
-    // }
+        return dp[index][amount]=Math.min(take,notTake);
+    }
+
 
 
     // public int coinChange(int[] coins, int amount) {
@@ -46,27 +46,27 @@ class Solution {
     //     return (dp[n-1][amount]>=INF)?-1:dp[n-1][amount];
     // }
 
-    public int coinChange(int[] coins, int amount) {
-        int n=coins.length;
-        int[] prev=new int [amount+1];
-        int INF=(int)1e9;
+    // public int coinChange(int[] coins, int amount) {
+    //     int n=coins.length;
+    //     int[] prev=new int [amount+1];
+    //     int INF=(int)1e9;
 
-        for(int t=0;t<=amount;t++){
-            if(t%coins[0]==0) prev[t]=t/coins[0];
-            else prev[t]=INF;
-        }
+    //     for(int t=0;t<=amount;t++){
+    //         if(t%coins[0]==0) prev[t]=t/coins[0];
+    //         else prev[t]=INF;
+    //     }
 
-        for(int i=1;i<n;i++){
-            int[] curr=new int [amount+1];
-            for(int t=0;t<=amount;t++){
-                int notTake=0+prev[t];
-                int take=INF;
-                if(coins[i]<=t) take=1+curr[t-coins[i]];
+    //     for(int i=1;i<n;i++){
+    //         int[] curr=new int [amount+1];
+    //         for(int t=0;t<=amount;t++){
+    //             int notTake=0+prev[t];
+    //             int take=INF;
+    //             if(coins[i]<=t) take=1+curr[t-coins[i]];
 
-                curr[t]=Math.min(notTake,take);
-            }
-            prev=curr;
-        }
-        return (prev[amount]>=INF)?-1:prev[amount];
-    }
+    //             curr[t]=Math.min(notTake,take);
+    //         }
+    //         prev=curr;
+    //     }
+    //     return (prev[amount]>=INF)?-1:prev[amount];
+    // }
 }
