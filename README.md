@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Anuragmishra12345/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anuragmishra12345/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0724-find-pivot-index](https://github.com/Anuragmishra12345/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Anuragmishra12345/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/Anuragmishra12345/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
@@ -621,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Anuragmishra12345/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anuragmishra12345/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
