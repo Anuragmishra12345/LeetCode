@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anuragmishra12345/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3840-house-robber-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/3840-house-robber-v/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anuragmishra12345/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3840-house-robber-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/3840-house-robber-v/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
