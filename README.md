@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Anuragmishra12345/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Anuragmishra12345/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -620,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anuragmishra12345/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Anuragmishra12345/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0480-sliding-window-median](https://github.com/Anuragmishra12345/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
 | [0567-permutation-in-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
@@ -633,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
