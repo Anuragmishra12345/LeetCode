@@ -570,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Anuragmishra12345/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1323-maximum-69-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Anuragmishra12345/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
