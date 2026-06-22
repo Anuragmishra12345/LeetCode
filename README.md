@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-shortest-common-supersequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Anuragmishra12345/LeetCode/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Anuragmishra12345/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anuragmishra12345/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anuragmishra12345/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Anuragmishra12345/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Anuragmishra12345/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
@@ -743,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Anuragmishra12345/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Anuragmishra12345/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Anuragmishra12345/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
