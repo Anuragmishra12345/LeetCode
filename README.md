@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Anuragmishra12345/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0067-add-binary](https://github.com/Anuragmishra12345/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0071-simplify-path](https://github.com/Anuragmishra12345/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/Anuragmishra12345/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Anuragmishra12345/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0087-scramble-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0087-scramble-string/) | Hard |
@@ -707,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/Anuragmishra12345/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0224-basic-calculator](https://github.com/Anuragmishra12345/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0394-decode-string/) | Medium |
