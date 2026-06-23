@@ -1,22 +1,22 @@
 class Solution {
     public String simplifyPath(String path) {
-        Stack<String> stack= new Stack();
-        String singleDot=".";
-        String doubleDot="..";
+        Deque<String> stack = new ArrayDeque<>();
+
         String[] arr=path.split("/");
         for(String str:arr){
-            if(str.equals(doubleDot)){
-                if(!stack.isEmpty()) stack.pop();
+            if(str.equals("..")){
+                if(!stack.isEmpty()) stack.removeLast();
             }
-            else if(str.equals(singleDot) || str=="") continue;
-            else stack.push(str);
+            else if(str.equals(".") || str.equals("")) continue;
+            else stack.addLast(str);
         } 
+        if(stack.isEmpty()) return "/";
+
         StringBuilder result=new StringBuilder();
-        while(!stack.isEmpty()){
-            result.insert(0,stack.pop());
-            result.insert(0,"/");
+        for (String dir : stack) {
+            result.append("/").append(dir);
         }
-        if(result.length()==0) result.append("/");
+        
         return result.toString();
     }
 }
