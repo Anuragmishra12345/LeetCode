@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuragmishra12345/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Anuragmishra12345/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Anuragmishra12345/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/0136-single-number/) | Easy |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Anuragmishra12345/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Anuragmishra12345/LeetCode/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/Anuragmishra12345/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/Anuragmishra12345/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Anuragmishra12345/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Anuragmishra12345/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Anuragmishra12345/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
