@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/Anuragmishra12345/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anuragmishra12345/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anuragmishra12345/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3429-paint-house-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/3429-paint-house-iv/) | Medium |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anuragmishra12345/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anuragmishra12345/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -770,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
