@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anuragmishra12345/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1745-palindrome-partitioning-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/1745-palindrome-partitioning-iv/) | Hard |
 | [1871-jump-game-vii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anuragmishra12345/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anuragmishra12345/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Anuragmishra12345/LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Anuragmishra12345/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anuragmishra12345/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anuragmishra12345/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anuragmishra12345/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anuragmishra12345/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
