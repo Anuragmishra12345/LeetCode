@@ -22,6 +22,7 @@ class Solution {
         int ans=Integer.MAX_VALUE;
 
         long prefixSum=0;
+        dq.offerLast(new long[]{0, -1});
 
         for(int i=0;i<nums.length;i++){
             prefixSum+=nums[i];
@@ -33,7 +34,7 @@ class Solution {
                 dq.pollFirst();
             }
 
-            while(!dq.isEmpty() && dq.peekLast()[0]>prefixSum) dq.pollLast();
+            while(!dq.isEmpty() && dq.peekLast()[0]>=prefixSum) dq.pollLast();
 
             dq.offerLast(new long[]{prefixSum,i});
         }
