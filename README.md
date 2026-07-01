@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Anuragmishra12345/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2258-escape-the-spreading-fire](https://github.com/Anuragmishra12345/LeetCode/tree/main/2258-escape-the-spreading-fire/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/Anuragmishra12345/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anuragmishra12345/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anuragmishra12345/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2258-escape-the-spreading-fire](https://github.com/Anuragmishra12345/LeetCode/tree/main/2258-escape-the-spreading-fire/) | Hard |
 | [2498-frog-jump-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 | [2560-house-robber-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/2560-house-robber-iv/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Linked List
@@ -489,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Anuragmishra12345/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -511,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-map-of-highest-peak](https://github.com/Anuragmishra12345/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2258-escape-the-spreading-fire](https://github.com/Anuragmishra12345/LeetCode/tree/main/2258-escape-the-spreading-fire/) | Hard |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -721,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Anuragmishra12345/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
