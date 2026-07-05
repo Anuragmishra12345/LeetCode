@@ -1,25 +1,45 @@
 class Solution {
-    Boolean[][] dp;
-    public boolean canPartition(int[] nums) {
+    // Boolean[][] dp;
+    // public boolean canPartition(int[] nums) {
+    //     int sum=0;
+    //     for(int n:nums) sum+=n;
+
+    //     if(sum%2!=0) return false;
+
+    //     dp= new Boolean[nums.length][sum/2+1];
+
+    //     return func(nums,0,sum/2);
+    // }
+    // boolean func(int[] nums, int index ,int target){
+    //     if(index==nums.length && target==0) return true;
+
+    //     if(index == nums.length && target!=0) return false;
+    //     if(dp[index][target]!=null) return dp[index][target];
+
+    //     boolean take=false;
+    //     if(target-nums[index]>=0) take=func(nums,index+1,target-nums[index]);
+    //     boolean notTake=func(nums,index+1,target);
+
+    //     return dp[index][target]=take||notTake;
+    // }
+
+    public boolean canPartition(int[] nums){
         int sum=0;
         for(int n:nums) sum+=n;
-
         if(sum%2!=0) return false;
+        int n=nums.length;
+        boolean[][] dp=new boolean[n+1][sum/2+1];
 
-        dp= new Boolean[nums.length][sum/2+1];
+        dp[n][0] =true;
 
-        return func(nums,0,sum/2);
-    }
-    boolean func(int[] nums, int index ,int target){
-        if(index==nums.length && target==0) return true;
+        for(int i=n-1;i>=0;i--){
+            for(int t=0;t<=sum/2;t++){
+                boolean take=false;
+                if(t>=nums[i]) take=dp[i+1][t-nums[i]];
 
-        if(index == nums.length && target!=0) return false;
-        if(dp[index][target]!=null) return dp[index][target];
-
-        boolean take=false;
-        if(target-nums[index]>=0) take=func(nums,index+1,target-nums[index]);
-        boolean notTake=func(nums,index+1,target);
-
-        return dp[index][target]=take||notTake;
+                dp[i][t]=take || dp[i+1][t];
+            }
+        }
+        return dp[0][sum/2];
     }
 }
