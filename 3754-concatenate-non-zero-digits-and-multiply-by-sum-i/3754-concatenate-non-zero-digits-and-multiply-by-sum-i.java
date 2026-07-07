@@ -1,6 +1,6 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        String num=String.valueOf(n);
+        String num=n+"";
         long sum=0;
         long x=0;
         for(char ch:num.toCharArray()){
