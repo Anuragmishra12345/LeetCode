@@ -3,7 +3,7 @@ class Solution {
     public int longestPalindromeSubseq(String s) {
         dp=new int[s.length()][s.length()];
         for(int[] row:dp) Arrays.fill(row,-1);
-        return Math.max(1,func(s,0,s.length()-1));
+        return func(s,0,s.length()-1);
     }
     int func(String s, int i , int j){
 
