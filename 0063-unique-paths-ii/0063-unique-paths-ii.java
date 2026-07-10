@@ -29,22 +29,30 @@ class Solution {
         int n=obstacleGrid[0].length;
         if(obstacleGrid[0][0]==1 || obstacleGrid[m-1][n-1]==1) return 0;
 
-        int[][] dp=new int[m][n];
-        dp[m-1][n-1]=1;
-
+        int[] prev=new int[n];
+        prev[n-1]=1;
         for(int i=m-1;i>=0;i--){
+            int[] curr=new int[n];
             for(int j=n-1;j>=0;j--){
                 if(obstacleGrid[i][j]==1) continue;
-                if(i==m-1 && j==n-1) continue;
+                if(i==m-1 && j==n-1) {
+                    curr[j]=1;
+                    continue;
+                }
                 int right=0;
-                if(j+1<n && obstacleGrid[i][j+1]!=1) right=dp[i][j+1];
+                if(j+1<n && obstacleGrid[i][j+1]!=1) right=curr[j+1];
 
                 int down=0;
-                if(i+1<m && obstacleGrid[i+1][j]!=1) down=dp[i+1][j];
+                if(i+1<m && obstacleGrid[i+1][j]!=1) down=prev[j];
 
-                dp[i][j]=right+down;
+                curr[j]=right+down;
             }
+            prev=curr;
         }
-        return dp[0][0];
+        return prev[0];
     }
 }
+
+
+
+
