@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0567-permutation-in-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0726-number-of-atoms](https://github.com/Anuragmishra12345/LeetCode/tree/main/0726-number-of-atoms/) | Hard |
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anuragmishra12345/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0741-cherry-pickup](https://github.com/Anuragmishra12345/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
@@ -603,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Anuragmishra12345/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anuragmishra12345/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Anuragmishra12345/LeetCode/tree/main/0860-lemonade-change/) | Easy |
@@ -790,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Anuragmishra12345/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0726-number-of-atoms](https://github.com/Anuragmishra12345/LeetCode/tree/main/0726-number-of-atoms/) | Hard |
 | [0739-daily-temperatures](https://github.com/Anuragmishra12345/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Anuragmishra12345/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
