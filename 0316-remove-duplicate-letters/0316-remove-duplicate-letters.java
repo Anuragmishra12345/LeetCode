@@ -22,9 +22,9 @@ class Solution {
         StringBuilder result = new StringBuilder();
 
         while(!stack.isEmpty()){
-            result.append(stack.pop());
+            result.insert(0,stack.pop());
         }
 
-        return result.reverse().toString();
+        return result.toString();
     }
 }
