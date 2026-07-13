@@ -19,8 +19,12 @@ class Solution {
             freq[ch-'a']--;
             visited[ch-'a']=true;
         }
-        StringBuilder result=new StringBuilder();
-        for(char ch:stack) result.insert(0,stack.pop());
-        return result.toString();
+        StringBuilder result = new StringBuilder();
+
+        while(!stack.isEmpty()){
+            result.append(stack.pop());
+        }
+
+        return result.reverse().toString();
     }
 }
