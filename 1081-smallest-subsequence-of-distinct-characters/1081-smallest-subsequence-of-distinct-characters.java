@@ -20,7 +20,10 @@ class Solution {
             visited[ch-'a']=true;
         }
         StringBuilder result=new StringBuilder();
-        for(char ch:stack) result.insert(0,stack.pop());
+        while(!stack.isEmpty()){
+            result.insert(0,stack.pop());
+        }
+
         return result.toString();
     }
 }
