@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Anuragmishra12345/LeetCode/tree/main/0726-number-of-atoms/) | Hard |
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0796-rotate-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [0942-di-string-match](https://github.com/Anuragmishra12345/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/Anuragmishra12345/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuragmishra12345/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0942-di-string-match](https://github.com/Anuragmishra12345/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Anuragmishra12345/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anuragmishra12345/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -596,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
+| [0942-di-string-match](https://github.com/Anuragmishra12345/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anuragmishra12345/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -622,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anuragmishra12345/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Anuragmishra12345/LeetCode/tree/main/0860-lemonade-change/) | Easy |
+| [0942-di-string-match](https://github.com/Anuragmishra12345/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1323-maximum-69-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
