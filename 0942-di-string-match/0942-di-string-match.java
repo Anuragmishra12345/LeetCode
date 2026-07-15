@@ -6,11 +6,9 @@ class Solution {
         int right=n;
         for(int i=0;i<n;i++){
             if(s.charAt(i)=='I'){
-                result[i]=left;
-                left++;
+                result[i]=left++;
             }else {
-                result[i]=right;
-                right--;
+                result[i]=right--;
             }
         }
         result[n]=left;
