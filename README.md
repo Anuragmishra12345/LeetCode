@@ -634,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/Anuragmishra12345/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Anuragmishra12345/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0942-di-string-match](https://github.com/Anuragmishra12345/LeetCode/tree/main/0942-di-string-match/) | Easy |
+| [0991-broken-calculator](https://github.com/Anuragmishra12345/LeetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1323-maximum-69-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
@@ -679,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/Anuragmishra12345/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Anuragmishra12345/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0991-broken-calculator](https://github.com/Anuragmishra12345/LeetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1323-maximum-69-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anuragmishra12345/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
