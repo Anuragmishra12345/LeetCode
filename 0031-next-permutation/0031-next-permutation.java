@@ -11,27 +11,25 @@ class Solution {
             reverse(nums,0,nums.length-1);
             return;
         }
-
         int index2=-1;
-        for(int j=nums.length-1;j>index1;j--){
-            if(nums[j]>nums[index1]){
-                index2=j;
+        for(int i=nums.length-1;i>index1;i--){
+            if(nums[i]>nums[index1]){
+                index2=i;
                 break;
             }
         }
-        
         int temp=nums[index1];
         nums[index1]=nums[index2];
         nums[index2]=temp;
 
         reverse(nums,index1+1,nums.length-1);
-        
     }
-    public void reverse(int[] nums,int start, int end){
-        while (start < end) {
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
+
+    void reverse(int[]nums, int start , int end){
+        while(start<end){
+            int temp=nums[start];
+            nums[start]=nums[end];
+            nums[end]=temp;
             start++;
             end--;
         }
