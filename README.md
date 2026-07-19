@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Anuragmishra12345/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/Anuragmishra12345/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Anuragmishra12345/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Anuragmishra12345/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -710,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Anuragmishra12345/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Anuragmishra12345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Anuragmishra12345/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
