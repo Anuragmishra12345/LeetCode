@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Anuragmishra12345/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Anuragmishra12345/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0087-scramble-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0087-scramble-string/) | Hard |
+| [0091-decode-ways](https://github.com/Anuragmishra12345/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Anuragmishra12345/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Anuragmishra12345/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Anuragmishra12345/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0087-scramble-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0087-scramble-string/) | Hard |
+| [0091-decode-ways](https://github.com/Anuragmishra12345/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Anuragmishra12345/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
