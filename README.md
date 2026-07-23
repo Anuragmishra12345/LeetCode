@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/Anuragmishra12345/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0140-word-break-ii/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/Anuragmishra12345/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0174-dungeon-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Anuragmishra12345/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Anuragmishra12345/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/Anuragmishra12345/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/Anuragmishra12345/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Anuragmishra12345/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Anuragmishra12345/LeetCode/tree/main/0169-majority-element/) | Easy |
