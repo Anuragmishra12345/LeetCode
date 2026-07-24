@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anuragmishra12345/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anuragmishra12345/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anuragmishra12345/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anuragmishra12345/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/Anuragmishra12345/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Anuragmishra12345/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anuragmishra12345/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anuragmishra12345/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anuragmishra12345/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2498-frog-jump-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 | [2560-house-robber-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/2560-house-robber-iv/) | Medium |
