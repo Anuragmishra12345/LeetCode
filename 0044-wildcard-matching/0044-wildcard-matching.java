@@ -1,23 +1,49 @@
 class Solution {
     Boolean[][] dp;
     public boolean isMatch(String s, String p) {
-        int n=s.length();
-        int m=p.length();
-        dp=new Boolean[n+1][m+1];
-        return f(s,p,n-1,m-1);
+        dp=new Boolean[s.length()][p.length()];
+        return func(s,p,0,0);
     }
-    boolean f(String s, String p, int i, int j){
-        if(i<0 && j<0 ) return true;
-        if(j<0 && i>=0) return false;
-        if(j>=0 && i<0) {
-            for(int k=0;k<=j;k++){ if(p.charAt(k)!='*') return false;}
+    boolean func(String s, String p, int i, int j){
+        if(i==s.length() && j==p.length()) return true;
+        if(j>=p.length() && i<s.length()) return false;
+        if(j<p.length() && i>=s.length()){
+            for(int index=j;index<p.length();index++) if(p.charAt(index)!='*') return false;
             return true;
         }
-        if(dp[i][j]!=null) return dp[i][j];
-        if(s.charAt(i)==p.charAt(j) || p.charAt(j)=='?') return dp[i][j]=f(s,p,i-1,j-1);
 
-        if(p.charAt(j)=='*') return dp[i][j]=f(s,p,i-1,j) || f(s,p,i,j-1);
 
-        return dp[i][j]=false;
+        if(dp[i][j] !=null) return dp[i][j];
+
+        boolean same=false;
+        boolean star=false;
+        if(s.charAt(i)==p.charAt(j) || p.charAt(j)=='?') same=func(s,p,i+1,j+1);
+        else if(p.charAt(j)=='*') star=func(s,p,i,j+1) || func(s,p,i+1,j);
+        else return dp[i][j]=false;
+
+        return dp[i][j]=same|| star;
     }
+
+    // public boolean isMatch(String s, String p) {
+    //     int m=s.length();
+    //     int n=p.length();
+
+    //     boolean[] dp=new boolean[p.length()+1];
+    //     dp[n]=true;
+        
+    //     for(int i=m-1;i>=0;i--){
+    //         boolean[] curr=new boolean[p.length()+1];
+    //         for(int j=n-1;j>=0;j--){
+    //             boolean same=false;
+    //             boolean star=false;
+
+    //             if(s.charAt(i)==p.charAt(j) || p.charAt(j)=='?') same=dp[j+1];
+    //             else if(p.charAt(j)=='*') star=dp[j+1] || dp[j];
+
+    //             curr[j]=same||star;
+    //         }
+    //         dp=curr;
+    //     }
+    //     return dp[0];
+    // }
 }
