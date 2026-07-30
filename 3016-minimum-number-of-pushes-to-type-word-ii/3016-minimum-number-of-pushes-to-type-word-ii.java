@@ -1,7 +1,8 @@
 class Solution {
     public int minimumPushes(String word) {
         int[] freq=new int[26];
-        for(char ch:word.toCharArray()){
+        for(int i=0;i<word.length();i++){
+            char ch=word.charAt(i);
             freq[ch-'a']++;
         }
         Arrays.sort(freq);
