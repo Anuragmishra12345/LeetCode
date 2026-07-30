@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-removing-stars-from-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anuragmishra12345/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anuragmishra12345/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anuragmishra12345/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -675,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-frog-jump-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 | [2560-house-robber-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/2560-house-robber-iv/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -769,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Anuragmishra12345/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anuragmishra12345/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anuragmishra12345/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Anuragmishra12345/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -927,6 +931,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Anuragmishra12345/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Anuragmishra12345/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
