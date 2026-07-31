@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/Anuragmishra12345/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0140-word-break-ii/) | Hard |
+| [0141-linked-list-cycle](https://github.com/Anuragmishra12345/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Anuragmishra12345/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/Anuragmishra12345/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -542,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Anuragmishra12345/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anuragmishra12345/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Anuragmishra12345/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Anuragmishra12345/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Anuragmishra12345/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Union-Find
@@ -626,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Anuragmishra12345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/Anuragmishra12345/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Anuragmishra12345/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
