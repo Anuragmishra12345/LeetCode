@@ -1001,6 +1001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
+| [1527-patients-with-a-condition](https://github.com/Anuragmishra12345/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1683-invalid-tweets](https://github.com/Anuragmishra12345/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Anuragmishra12345/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Anuragmishra12345/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
