@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Anuragmishra12345/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anuragmishra12345/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Anuragmishra12345/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0994-rotting-oranges](https://github.com/Anuragmishra12345/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0942-di-string-match](https://github.com/Anuragmishra12345/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Anuragmishra12345/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/Anuragmishra12345/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anuragmishra12345/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Anuragmishra12345/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
@@ -587,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Anuragmishra12345/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/Anuragmishra12345/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
+| [0994-rotting-oranges](https://github.com/Anuragmishra12345/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
