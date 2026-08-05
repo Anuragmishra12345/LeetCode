@@ -11,8 +11,9 @@ class Solution {
         int[][] dir={{1,0},{0,1},{0,-1},{-1,0}};
 
         while(!q.isEmpty()){
-            int r=q.peek()[0];
-            int c=q.poll()[1];
+            int[] cell=q.poll();
+            int r=cell[0];
+            int c=cell[1];
 
             for(int[] d:dir){
                 int nr=r+d[0];
