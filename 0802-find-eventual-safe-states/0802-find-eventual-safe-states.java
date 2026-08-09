@@ -2,39 +2,26 @@ class Solution {
     boolean[] visited;
     boolean[] path;
     public List<Integer> eventualSafeNodes(int[][] graph) {
+        visited=new boolean[graph.length];
+        path=new boolean[graph.length];
+
         List<Integer> result=new ArrayList<>();
-        int n=graph.length;
-
-        visited=new boolean[n];
-        path=new boolean[n];
-
-        List<List<Integer>> adj = new ArrayList<>();
-        for(int i = 0; i < n; i++){
-            adj.add(new ArrayList<>());
-            for(int nei : graph[i]){
-                adj.get(i).add(nei);
-            }
+        for(int i=0;i<graph.length;i++){
+            if(!dfs(graph,i)) result.add(i);
         }
-
-        for(int i=0;i<n;i++){
-            if(!dfs(i,adj)) result.add(i);
-        }
-
         Collections.sort(result);
         return result;
     }
-
-    boolean dfs(int node, List<List<Integer>> adj){
+    boolean dfs(int[][] graph, int node){
         visited[node]=true;
         path[node]=true;
 
-        for(int n:adj.get(node)){
-            if(!visited[n]) {
-                if(dfs(n,adj)) return true;
+        for(int g:graph[node]){
+            if(!visited[g]) {
+                if(dfs(graph,g)) return true;
             }
-            else if(path[n]) return true;
+            else if(path[g]) return true;
         }
-
         path[node]=false;
         return false;
     }
