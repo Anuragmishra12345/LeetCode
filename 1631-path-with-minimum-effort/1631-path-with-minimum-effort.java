@@ -21,6 +21,8 @@ class Solution {
 
             if(di>diff[r][c]) continue;
 
+            if(r==m-1 && c==n-1) return di;
+
             for(int[] d:dir){
                 int nr=r+d[0];
                 int nc=c+d[1];
