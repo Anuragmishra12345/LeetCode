@@ -1,44 +1,35 @@
 class Solution {
-    class Tuple{
-        int diff;
-        int row;
-        int col;
-
-        Tuple(int diff, int row, int col){
-            this.diff=diff;
-            this.row=row;
-            this.col=col;
-        }
-    }
     public int minimumEffortPath(int[][] heights) {
+        PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)->Integer.compare(a[0],b[0]));
+        pq.offer(new int[]{0,0,0});
+
         int m=heights.length;
         int n=heights[0].length;
-        PriorityQueue<Tuple> pq=new PriorityQueue<>((x,y)->x.diff-y.diff);
         int[][] diff=new int[m][n];
+
         for(int[] row:diff) Arrays.fill(row,Integer.MAX_VALUE);
-        diff[0][0] = 0;
+        diff[0][0]=0;
 
-        pq.add(new Tuple(0,0,0));
-        int[][] dir={{0,1},{0,-1},{1,0},{-1,0}};
+        int[][] dir={{1,0},{0,1},{-1,0},{0,-1}};
+
         while(!pq.isEmpty()){
-            Tuple t=pq.poll();
-            int d=t.diff;
-            int r=t.row;
-            int c=t.col;
+            int[] cell=pq.poll();
 
-            if(d>diff[r][c]) continue;
+            int di=cell[0];
+            int r=cell[1];
+            int c=cell[2];
 
-            for(int i=0;i<4;i++){
-                int nr=r+dir[i][0];
-                int nc=c+dir[i][1];
+            if(di>diff[r][c]) continue;
 
-                if (r == m - 1 && c == n - 1) return d;
+            for(int[] d:dir){
+                int nr=r+d[0];
+                int nc=c+d[1];
 
-                if(nr>=0 && nr<m && nc>=0 && nc<n){
-                    int effort=Math.max(Math.abs(heights[r][c]-heights[nr][nc]),d);
+                if(nr<m && nr>=0 && nc>=0 && nc<n){
+                    int effort=Math.max(di,Math.abs(heights[r][c]-heights[nr][nc]));
                     if(effort<diff[nr][nc]){
                         diff[nr][nc]=effort;
-                        pq.add(new Tuple(effort,nr,nc));
+                        pq.offer(new int[]{effort,nr,nc});
                     }
                 }
             }
