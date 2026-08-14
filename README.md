@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anuragmishra12345/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anuragmishra12345/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
@@ -625,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Anuragmishra12345/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Anuragmishra12345/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anuragmishra12345/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
