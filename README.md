@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0542-01-matrix/) | Medium |
+| [0576-out-of-boundary-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Anuragmishra12345/LeetCode/tree/main/0650-2-keys-keyboard/) | Medium |
