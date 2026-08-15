@@ -34,11 +34,21 @@ class Solution {
         int n=s.length();
         int[] dp=new int[n+1];
 
+        boolean[][] palindrome=new boolean[n][n];
+
+        for(int i=n-1;i>=0;i--){
+            for(int j=i;j<n;j++){
+                if(s.charAt(i)==s.charAt(j) && (j-i<=1 || palindrome[i+1][j-1])){
+                    palindrome[i][j]=true;
+                }
+            }
+        }
+
         for(int i=n-1;i>=0;i--){
             int cost=Integer.MAX_VALUE;
 
             for(int j=i;j<n;j++){
-                if(isPalindrome(s,i,j)){
+                if(palindrome[i][j]){
                     int c=1+dp[j+1];
                     cost=Math.min(cost,c);
                 }
