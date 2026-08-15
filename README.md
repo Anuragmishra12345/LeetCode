@@ -1037,6 +1037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/Anuragmishra12345/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Anuragmishra12345/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Anuragmishra12345/LeetCode/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Anuragmishra12345/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
