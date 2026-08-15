@@ -1,31 +1,29 @@
 class Solution {
     public boolean parseBoolExpr(String expression) {
-        Stack<Character> stack=new Stack<>();
+        Deque<Character> stack=new ArrayDeque<>();
 
         for(char ch:expression.toCharArray()){
             if(ch==',') continue;
+            int t=0;
+            int f=0;
+
             if(ch!=')') stack.push(ch);
-            else {
-                int t=0;
-                int f=0;
+            else{
                 while(stack.peek()!='('){
-                    char top=stack.pop();
-                    if(top=='t') t++;
+                    char c=stack.pop();
+                    if(c=='t') t++;
                     else f++;
                 }
                 stack.pop();
                 char op=stack.pop();
-                if(op=='!'){
-                    stack.push((t>f)?'f':'t');
+
+                if(op=='!') {
+                    stack.push((f>t)?'t':'f');
                 }
                 else if(op=='&'){
-                    if(f==0) stack.push('t');
-                    else stack.push('f');
+                    stack.push((f==0)?'t':'f');
                 }
-                else {
-                    if(t==0) stack.push('f');
-                    else stack.push('t');
-                }
+                else stack.push((t==0)?'f':'t');
             }
         }
         return (stack.peek()=='t')?true:false;
