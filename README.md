@@ -1043,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1148-article-views-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Anuragmishra12345/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1251-average-selling-price](https://github.com/Anuragmishra12345/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Anuragmishra12345/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Anuragmishra12345/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1683-invalid-tweets](https://github.com/Anuragmishra12345/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
