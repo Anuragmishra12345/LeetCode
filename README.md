@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anuragmishra12345/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anuragmishra12345/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2063-vowels-of-all-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2560-house-robber-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/2560-house-robber-iv/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anuragmishra12345/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3429-paint-house-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/3429-paint-house-iv/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -512,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anuragmishra12345/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
