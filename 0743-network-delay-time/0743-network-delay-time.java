@@ -1,57 +1,49 @@
 class Solution {
     class Pair{
-        int node;
-        int time;
-
-        Pair(int node, int time){
-            this.node=node;
-            this.time=time;
+        int v;
+        int w;
+        Pair(int v, int w){
+            this.v=v;
+            this.w=w;
         }
     }
     public int networkDelayTime(int[][] times, int n, int k) {
         List<List<Pair>> adj=new ArrayList<>();
 
-        for(int i=0;i<=n;i++){
-            adj.add(new ArrayList<>());
+        for(int i=0;i<=n;i++) adj.add(new ArrayList<>());
+
+        for(int[] t:times){
+            adj.get(t[0]).add(new Pair(t[1],t[2]));
         }
 
-        for(int[] row:times){
-            int node1=row[0];
-            int node2=row[1];
-            int time=row[2];
+        int[] minTime=new int[n+1];
+        Arrays.fill(minTime,Integer.MAX_VALUE);
 
-            adj.get(node1).add(new Pair(node2,time));
-        }
-        int[] timesArray=new int[n+1];
-        Arrays.fill(timesArray,Integer.MAX_VALUE);
-        timesArray[k]=0;
+        minTime[k]=0;
 
-        PriorityQueue<Pair> pq=new PriorityQueue<>((x,y)->x.time-y.time);
-        pq.add(new Pair(k,0));
+        Queue<Pair> q=new LinkedList<>();
+        q.offer(new Pair(k,0));
 
-        while(!pq.isEmpty()){
-            Pair curr = pq.poll();
-            int node = curr.node;
-            int time = curr.time;
-
-            if(timesArray[node]<time) continue;
+        while(!q.isEmpty()){
+            Pair cell=q.poll();
+            int node=cell.v;
+            int time=cell.w;
 
             for(Pair p:adj.get(node)){
-                int adjNode=p.node;
-                int adjTime=p.time;
+                int adjNode=p.v;
+                int adjTime=p.w;
 
-                if(time+adjTime<timesArray[adjNode]) {
-                    timesArray[adjNode]=time+adjTime;
-                    pq.add(new Pair(adjNode,timesArray[adjNode]));
+                if(adjTime+time<minTime[adjNode]){
+                    minTime[adjNode]=adjTime+time;
+                    q.offer(new Pair(adjNode,adjTime+time));
                 }
             }
         }
-        int minTime=0;
-        for(int i=1;i<timesArray.length;i++){
-            int t=timesArray[i];
-            if(t==Integer.MAX_VALUE) return -1;
-            else minTime=Math.max(minTime,t);
+        int min=-1;
+        for(int i=1;i<=n;i++){
+            if(minTime[i]==Integer.MAX_VALUE) return -1;
+            min=Math.max(min,minTime[i]);
         }
-        return minTime;
+        return min;
     }
 }
