@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Anuragmishra12345/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1563-stone-game-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anuragmishra12345/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1745-palindrome-partitioning-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/1745-palindrome-partitioning-iv/) | Hard |
 | [1871-jump-game-vii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Anuragmishra12345/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/Anuragmishra12345/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1563-stone-game-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Anuragmishra12345/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anuragmishra12345/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -771,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1323-maximum-69-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anuragmishra12345/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1563-stone-game-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
@@ -1075,6 +1078,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1563-stone-game-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
