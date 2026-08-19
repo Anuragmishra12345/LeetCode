@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/1340-jump-game-v/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/Anuragmishra12345/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anuragmishra12345/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Anuragmishra12345/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anuragmishra12345/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
@@ -719,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1323-maximum-69-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Anuragmishra12345/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Anuragmishra12345/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anuragmishra12345/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -848,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Anuragmishra12345/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
