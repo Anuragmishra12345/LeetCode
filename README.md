@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anuragmishra12345/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1745-palindrome-partitioning-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/1745-palindrome-partitioning-iv/) | Hard |
 | [1871-jump-game-vii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
+| [1927-sum-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anuragmishra12345/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
@@ -739,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Anuragmishra12345/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anuragmishra12345/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anuragmishra12345/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anuragmishra12345/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -795,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
+| [1927-sum-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -1107,6 +1110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
