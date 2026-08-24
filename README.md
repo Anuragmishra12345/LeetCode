@@ -726,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Anuragmishra12345/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
+| [0670-maximum-swap](https://github.com/Anuragmishra12345/LeetCode/tree/main/0670-maximum-swap/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anuragmishra12345/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
@@ -786,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Anuragmishra12345/LeetCode/tree/main/0650-2-keys-keyboard/) | Medium |
+| [0670-maximum-swap](https://github.com/Anuragmishra12345/LeetCode/tree/main/0670-maximum-swap/) | Medium |
 | [0788-rotated-digits](https://github.com/Anuragmishra12345/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Anuragmishra12345/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
