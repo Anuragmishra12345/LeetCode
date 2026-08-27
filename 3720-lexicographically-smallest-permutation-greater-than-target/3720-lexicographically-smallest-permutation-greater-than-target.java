@@ -23,8 +23,8 @@ class Solution {
             freq[nextChar-'a']--;
             String r=curr+nextChar+getRemaining(freq);
             freq[nextChar-'a']++;
-            if(target.compareTo(r)<0 && (result=="" || r.compareTo(result)<0)){
-                result=r;
+            if(result.equals("") || r.compareTo(result) < 0) {
+                result = r;
             }
         }
     }
