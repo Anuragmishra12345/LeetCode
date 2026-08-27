@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuragmishra12345/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anuragmishra12345/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Backtracking
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anuragmishra12345/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuragmishra12345/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Anuragmishra12345/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Binary Search Tree
@@ -765,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuragmishra12345/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anuragmishra12345/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -1043,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Anuragmishra12345/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuragmishra12345/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1054,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1291-sequential-digits](https://github.com/Anuragmishra12345/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuragmishra12345/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anuragmishra12345/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
