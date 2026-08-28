@@ -34,7 +34,10 @@ class Solution {
 
     void dfs(TreeNode root, int k,Map<TreeNode,TreeNode> map){
         if(root==null || visited.contains(root)) return;
-        if(k==0) result.add(root.val);
+        if(k==0) {
+            result.add(root.val);
+            return;
+        }
         visited.add(root);
         if(map.containsKey(root)){
             dfs(map.get(root),k-1,map);
