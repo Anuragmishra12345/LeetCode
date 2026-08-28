@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/Anuragmishra12345/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Anuragmishra12345/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anuragmishra12345/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Anuragmishra12345/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anuragmishra12345/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Anuragmishra12345/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Anuragmishra12345/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Anuragmishra12345/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Anuragmishra12345/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anuragmishra12345/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Anuragmishra12345/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/Anuragmishra12345/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/Anuragmishra12345/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Anuragmishra12345/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anuragmishra12345/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -530,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0726-number-of-atoms](https://github.com/Anuragmishra12345/LeetCode/tree/main/0726-number-of-atoms/) | Hard |
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Anuragmishra12345/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
