@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anuragmishra12345/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Anuragmishra12345/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anuragmishra12345/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -550,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Anuragmishra12345/LeetCode/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Anuragmishra12345/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anuragmishra12345/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -597,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-frog-jump-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 | [2560-house-robber-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/2560-house-robber-iv/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Anuragmishra12345/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Linked List
@@ -726,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0942-di-string-match](https://github.com/Anuragmishra12345/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anuragmishra12345/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Anuragmishra12345/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anuragmishra12345/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -769,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anuragmishra12345/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2498-frog-jump-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 | [2560-house-robber-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/2560-house-robber-iv/) | Medium |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Anuragmishra12345/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -1053,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Anuragmishra12345/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Anuragmishra12345/LeetCode/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Anuragmishra12345/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuragmishra12345/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Geometry
