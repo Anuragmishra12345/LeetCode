@@ -8,56 +8,39 @@
  * }
  */
 class Solution {
+    List<Integer> result=new ArrayList<>();
+    Set<TreeNode> visited=new HashSet<>();
     public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
-        Map<TreeNode, TreeNode> parent=new HashMap<>();
-        Queue<TreeNode> q=new LinkedList<>();
-        Set<TreeNode> set=new HashSet<>();
-        getParent(root,parent);
-
-        q.add(target);
-        set.add(target);
-        int dist=0;
-        while(!q.isEmpty()){
-            int size=q.size();
-            if(k==dist){
-                List<Integer> result=new ArrayList<>();
-                for(TreeNode node:q){
-                    result.add(node.val);
-                }
-                return result;
-            }
-            for(int i=0;i<size;i++){
-                TreeNode node=q.poll();
-                if(node.left!=null && !set.contains(node.left) ){
-                    q.add(node.left);
-                    set.add(node.left);
-                }
-                if(node.right!=null && !set.contains(node.right)){
-                    q.add(node.right);
-                    set.add(node.right);
-                } 
-                if(parent.get(node)!=null && !set.contains(parent.get(node))){
-                    q.add(parent.get(node));
-                    set.add(parent.get(node));
-                } 
-            }
-            dist++;
-        }
-        return new ArrayList<>();
+        Map<TreeNode,TreeNode> parent =new HashMap<>();
+        buildParent(root,parent);
+        dfs(target,k,parent);
+        return result;
     }
-    void getParent(TreeNode root,Map<TreeNode , TreeNode> parent){
+    void buildParent(TreeNode root, Map<TreeNode,TreeNode> parent){
         Queue<TreeNode> q=new LinkedList<>();
-        q.add(root);
+        q.offer(root);
         while(!q.isEmpty()){
             TreeNode node=q.poll();
             if(node.left!=null){
                 parent.put(node.left,node);
-                q.add(node.left);
+                q.offer(node.left);
             }
             if(node.right!=null){
                 parent.put(node.right,node);
-                q.add(node.right);
+                q.offer(node.right);
             }
         }
+    }
+
+    void dfs(TreeNode root, int k,Map<TreeNode,TreeNode> map){
+        if(root==null || visited.contains(root)) return;
+        if(k==0) result.add(root.val);
+        visited.add(root);
+        if(map.containsKey(root)){
+            dfs(map.get(root),k-1,map);
+        }
+        if(root.left!=null) dfs(root.left,k-1,map);
+        if(root.right!=null) dfs(root.right,k-1,map);
+
     }
 }
