@@ -14,7 +14,6 @@ class Solution {
         if(head==null || head.next==null || head.next.next==null) return result;
         Integer prev=null;
         int index=0;
-        List<Integer> list=new ArrayList<>();
 
         result[0]=Integer.MAX_VALUE;
 
