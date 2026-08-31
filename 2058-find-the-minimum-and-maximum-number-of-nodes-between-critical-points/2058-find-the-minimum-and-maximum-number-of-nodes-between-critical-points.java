@@ -21,10 +21,10 @@ class Solution {
         int lastIndex=-1;
 
         while(head!=null){
+
             if(prev==null) prev=head.val;
-            else if(head.next!=null){
-                if(head.val>prev && head.val>head.next.val) {
-                    if(firstIndex!=-1){
+            else if(head.next!=null && ((head.val>prev && head.val>head.next.val) || (head.val<prev && head.val<head.next.val))){
+                if(firstIndex!=-1){
                         result[1]=Math.max(result[1],index-firstIndex);
                     }
                     else firstIndex=index;
@@ -34,21 +34,8 @@ class Solution {
                     }
 
                     lastIndex=index;
-                }
-                if(head.val<prev && head.val<head.next.val){
-                    if(firstIndex!=-1){
-                        result[1]=Math.max(result[1],index-firstIndex);
-                    }
-                    else firstIndex=index;
-
-                    if(lastIndex!=-1) {
-                        result[0]=Math.min(result[0],index-lastIndex);
-                    }
-
-                    lastIndex=index;
-                }
-                prev=head.val;
             }
+            prev=head.val;
             index++;
             head=head.next;
         }
