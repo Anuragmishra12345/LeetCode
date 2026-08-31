@@ -10,28 +10,50 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        if(head==null || head.next==null || head.next.next==null) return new int[]{-1,-1};
+        int[] result={-1,-1};
+        if(head==null || head.next==null || head.next.next==null) return result;
         Integer prev=null;
         int index=0;
         List<Integer> list=new ArrayList<>();
 
+        result[0]=Integer.MAX_VALUE;
+
+        int firstIndex=-1;
+        int lastIndex=-1;
+
         while(head!=null){
             if(prev==null) prev=head.val;
             else if(head.next!=null){
-                if(head.val>prev && head.val>head.next.val) list.add(index);
-                if(head.val<prev && head.val<head.next.val) list.add(index);
+                if(head.val>prev && head.val>head.next.val) {
+                    if(firstIndex!=-1){
+                        result[1]=Math.max(result[1],index-firstIndex);
+                    }
+                    else firstIndex=index;
+
+                    if(lastIndex!=-1) {
+                        result[0]=Math.min(result[0],index-lastIndex);
+                    }
+
+                    lastIndex=index;
+                }
+                if(head.val<prev && head.val<head.next.val){
+                    if(firstIndex!=-1){
+                        result[1]=Math.max(result[1],index-firstIndex);
+                    }
+                    else firstIndex=index;
+
+                    if(lastIndex!=-1) {
+                        result[0]=Math.min(result[0],index-lastIndex);
+                    }
+
+                    lastIndex=index;
+                }
                 prev=head.val;
             }
             index++;
             head=head.next;
         }
-        int[] result={-1,-1};
-        if(list.size()<2) return result;
-        result[0]=Integer.MAX_VALUE;
-        result[1]=list.get(list.size()-1)-list.get(0);
-        for(int i=1;i<list.size();i++){
-            result[0]=Math.min(result[0],list.get(i)-list.get(i-1));
-        }
+        if(result[0]==Integer.MAX_VALUE) result[0]=-1;
         return result;
     }
 }
