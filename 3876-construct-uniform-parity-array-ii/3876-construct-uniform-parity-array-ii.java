@@ -8,8 +8,6 @@ class Solution {
             }
             else minOdd=Math.min(minOdd,num);
         }
-
-        if(minOdd==Integer.MAX_VALUE || minEven==Integer.MAX_VALUE || minEven>minOdd) return true;
-        return false;
+        return minOdd==Integer.MAX_VALUE || minEven==Integer.MAX_VALUE || minEven>minOdd;
     }
 }
