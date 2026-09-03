@@ -1,32 +1,30 @@
 class Solution {
+    int max=0;
     public int maximalRectangle(char[][] matrix) {
-        int ans=0;
         int n=matrix[0].length;
-        int m=matrix.length;
         int[] heights=new int[n];
-        for(int row=0;row<matrix.length;row++){
-            if(row!=0){
-                for(int col=0;col<matrix[0].length;col++){
-                    if(matrix[row][col]=='1'){
-                        heights[col]++;
-                    }
-                    else heights[col]=0;
+        for(int i=0;i<matrix.length;i++){
+            if(i==0){
+                for(int j=0;j<n;j++){
+                    if(matrix[i][j]=='1') heights[j]=1;
                 }
             }
-            else {
-                for(int col=0;col<n;col++){
-                    if(matrix[row][col]=='1') heights[col]=1;
+            else{
+                for(int j=0;j<n;j++){
+                    if(matrix[i][j]=='1') heights[j]+=1;
+                    else heights[j]=0;
                 }
             }
-            ans=Math.max(ans,solver(heights));
+            solve(heights);
         }
-        return ans;
+        return max;
     }
-    int solver(int[] heights){
+
+    private void solve(int[] heights){
         Deque<Integer> stack=new ArrayDeque<>();
-        int max=0;
+
         for(int i=0;i<=heights.length;i++){
-            int currHeight=(i==heights.length)?0:heights[i];
+            int currHeight=i==heights.length?0:heights[i];
 
             while(!stack.isEmpty() && currHeight<heights[stack.peek()]){
                 int height=heights[stack.pop()];
@@ -37,6 +35,5 @@ class Solution {
             }
             stack.push(i);
         }
-        return max;
     }
 }
