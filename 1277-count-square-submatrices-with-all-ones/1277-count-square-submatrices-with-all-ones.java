@@ -9,11 +9,7 @@ class Solution {
         for(int i=0;i<matrix.length;i++){
             for(int j=0;j<matrix[0].length;j++){
                 if(matrix[i][j]==1) {
-                    int length=solver(matrix,i,j);
-                    while(length>0){
-                        ans++;
-                        length--;
-                    }
+                    ans+=solver(matrix,i,j);
                 }
             }
         }
