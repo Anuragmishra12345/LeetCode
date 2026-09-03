@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Anuragmishra12345/LeetCode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anuragmishra12345/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anuragmishra12345/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0741-cherry-pickup](https://github.com/Anuragmishra12345/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0704-binary-search](https://github.com/Anuragmishra12345/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anuragmishra12345/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -922,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Anuragmishra12345/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -1010,6 +1014,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Anuragmishra12345/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1232,4 +1237,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Anuragmishra12345/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 <!---LeetCode Topics End-->
