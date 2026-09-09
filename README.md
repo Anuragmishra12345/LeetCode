@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anuragmishra12345/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/2002-maximum-product-of-the-length-of-two-palindromic-subsequences/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anuragmishra12345/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/2002-maximum-product-of-the-length-of-two-palindromic-subsequences/) | Medium |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1745-palindrome-partitioning-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/1745-palindrome-partitioning-iv/) | Hard |
 | [1871-jump-game-vii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/2002-maximum-product-of-the-length-of-two-palindromic-subsequences/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2560-house-robber-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/2560-house-robber-iv/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
@@ -935,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0318-maximum-product-of-word-lengths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Anuragmishra12345/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/2002-maximum-product-of-the-length-of-two-palindromic-subsequences/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1251,4 +1255,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/2002-maximum-product-of-the-length-of-two-palindromic-subsequences/) | Medium |
 <!---LeetCode Topics End-->
