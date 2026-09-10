@@ -28,7 +28,7 @@ class Solution {
         int count=left[1]+right[1]+1;
 
         if(sum/count==root.val) result++;
-
-        return new int[]{sum+root.val,count+1};
+        System.out.println(root.val+" "+ sum +" "+left[0]+ " "+ left[1]+" "+right[0]+" "+right[1]);
+        return new int[]{sum,count};
     }
 }
