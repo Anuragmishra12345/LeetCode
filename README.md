@@ -858,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Anuragmishra12345/LeetCode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0670-maximum-swap](https://github.com/Anuragmishra12345/LeetCode/tree/main/0670-maximum-swap/) | Medium |
 | [0788-rotated-digits](https://github.com/Anuragmishra12345/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Anuragmishra12345/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Anuragmishra12345/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0991-broken-calculator](https://github.com/Anuragmishra12345/LeetCode/tree/main/0991-broken-calculator/) | Medium |
@@ -1121,6 +1122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/Anuragmishra12345/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0836-rectangle-overlap](https://github.com/Anuragmishra12345/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Anuragmishra12345/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
