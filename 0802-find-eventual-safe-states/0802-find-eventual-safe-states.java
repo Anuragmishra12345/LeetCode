@@ -2,26 +2,36 @@ class Solution {
     boolean[] visited;
     boolean[] path;
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        visited=new boolean[graph.length];
-        path=new boolean[graph.length];
+        int n=graph.length;
+        visited=new boolean[n];
+        path=new boolean[n];
 
-        List<Integer> result=new ArrayList<>();
-        for(int i=0;i<graph.length;i++){
-            if(!dfs(graph,i)) result.add(i);
+        List<List<Integer>> adjList=new ArrayList<>();
+
+        for(int i=0;i<n;i++) adjList.add(new ArrayList<>());
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<graph[i].length;j++){
+                adjList.get(i).add(graph[i][j]);
+            }
         }
-        Collections.sort(result);
+        List<Integer> result=new ArrayList<>();
+        for(int i=0;i<n;i++){
+            if(!dfs(adjList,i)) result.add(i);
+        }
         return result;
     }
-    boolean dfs(int[][] graph, int node){
+    boolean dfs(List<List<Integer>> adjList, int node){
         visited[node]=true;
         path[node]=true;
 
-        for(int g:graph[node]){
-            if(!visited[g]) {
-                if(dfs(graph,g)) return true;
+        for(int adjNode:adjList.get(node)){
+            if(!visited[adjNode]) {
+                if(dfs(adjList,adjNode)) return true;
             }
-            else if(path[g]) return true;
+            else if(path[adjNode]) return true;
         }
+
         path[node]=false;
         return false;
     }
