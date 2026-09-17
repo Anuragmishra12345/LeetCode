@@ -1258,6 +1258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Anuragmishra12345/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
