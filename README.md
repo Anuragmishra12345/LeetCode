@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Anuragmishra12345/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anuragmishra12345/LeetCode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Anuragmishra12345/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Anuragmishra12345/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Anuragmishra12345/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anuragmishra12345/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anuragmishra12345/LeetCode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/1340-jump-game-v/) | Hard |
@@ -689,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Anuragmishra12345/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anuragmishra12345/LeetCode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Anuragmishra12345/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
