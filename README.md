@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anuragmishra12345/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuragmishra12345/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -724,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-removing-stars-from-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Anuragmishra12345/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
