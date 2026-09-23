@@ -9,7 +9,6 @@ class Solution {
                 size.add(1);
             }
         }
-
         int findUPar(int node){
             if(parent.get(node)==node) return node;
 
@@ -19,7 +18,6 @@ class Solution {
 
             return par;
         }
-
         void unionBySize(int u , int v){
             int up=findUPar(u);
             int vp=findUPar(v);
@@ -37,70 +35,55 @@ class Solution {
         }
     }
     int n;
-    boolean[][] visited;
+    int[][] dir={{1,0},{0,1},{-1,0},{0,-1}};
     public int largestIsland(int[][] grid) {
         n=grid.length;
-        // using this to avoid cyclic loops
-        visited=new boolean[n][n];
+        DisjointSet ds=new DisjointSet(n*n);
 
-        int id=1;
-        // storing the size of islands fo different ids
-        List<Integer> size=new ArrayList<>();
-        size.add(0);
-
-        // loop to check for 1 and not yet visited and then provide an id and count the size
         for(int r=0;r<n;r++){
             for(int c=0;c<n;c++){
-                if(grid[r][c]==1 && !visited[r][c]){
-                    size.add(giveId(grid,r,c,id));
-                    id++;
+                if(grid[r][c]==0) continue;
+
+                int node=r*n+c;
+
+                if(r+1<n && grid[r+1][c]==1){
+                    ds.unionBySize(node,(r+1)*n+c);
+                }
+                if(c+1<n && grid[r][c+1]==1){
+                    ds.unionBySize(node,r*n+c+1);
                 }
             }
         }
-        if(size.size()==1) return 1;
-        // checking for zero and then check for neighbors and then add their sizes
-        int finalIslandSize=size.get(1);
-        for(int r=0;r<n;r++){
-            for(int c=0;c<n;c++){
+
+        int ans=1;
+        if(grid[0][0]==1){
+            int up=ds.findUPar(0);
+            ans=Math.max(ans,ds.size.get(up));
+        }
+
+        for(int r = 0; r < n; r++) {
+            for(int c = 0; c < n; c++) {
+
+                if(grid[r][c] == 1) continue;
+
                 int currIslandSize=1;
-                if(grid[r][c]==0){
-                    Set<Integer> set=new HashSet<>();
+                Set<Integer> set=new HashSet<>();
 
-                    for(int[] d:dir){
-                        int nr = r + d[0];
-                        int nc = c + d[1];
+                for(int[] d:dir){
+                    int nr=r+d[0];
+                    int nc=c+d[1];
 
-                        if(nr<n && nr>=0 && nc<n && nc>=0 && grid[nr][nc]!=0 && !set.contains(grid[nr][nc])){
-                            set.add(grid[nr][nc]);
-                            currIslandSize+=size.get(grid[nr][nc]);
+                    if(nr<n && nr>=0 && nc<n && nc>=0 && grid[nr][nc]==1){
+                        int parent=ds.findUPar(nr*n+nc);
+                        if(!set.contains(parent)){
+                            set.add(parent);
+                            currIslandSize+=ds.size.get(parent);
                         }
-
                     }
-
-                    finalIslandSize=Math.max(finalIslandSize,currIslandSize);
                 }
+                ans=Math.max(ans,currIslandSize);
             }
         }
-
-        return finalIslandSize;
-
-    }
-    int[][] dir={{1,0},{0,1},{-1,0},{0,-1}};
-    //  method which implements the function of providing the id and calculating the size
-    int giveId(int[][] grid, int r , int c, int id){
-
-        visited[r][c]=true;
-        grid[r][c]=id;
-
-        int size=1;
-        for(int[] d:dir){
-            int nr=r+d[0];
-            int nc=c+d[1];
-
-            if(nr<n && nr>=0 && nc<n && nc>=0 && grid[nr][nc]==1 && !visited[nr][nc]){
-                size+=giveId(grid,nr,nc,id);
-            }
-        }
-        return size;
+        return ans;
     }
 }
