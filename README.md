@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Anuragmishra12345/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0502-ipo](https://github.com/Anuragmishra12345/LeetCode/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -829,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Anuragmishra12345/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0502-ipo](https://github.com/Anuragmishra12345/LeetCode/tree/main/0502-ipo/) | Hard |
 | [0561-array-partition](https://github.com/Anuragmishra12345/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/Anuragmishra12345/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -961,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Anuragmishra12345/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0475-heaters](https://github.com/Anuragmishra12345/LeetCode/tree/main/0475-heaters/) | Medium |
+| [0502-ipo](https://github.com/Anuragmishra12345/LeetCode/tree/main/0502-ipo/) | Hard |
 | [0561-array-partition](https://github.com/Anuragmishra12345/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/Anuragmishra12345/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -1061,6 +1064,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Anuragmishra12345/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0480-sliding-window-median](https://github.com/Anuragmishra12345/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
+| [0502-ipo](https://github.com/Anuragmishra12345/LeetCode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/Anuragmishra12345/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0743-network-delay-time](https://github.com/Anuragmishra12345/LeetCode/tree/main/0743-network-delay-time/) | Medium |
