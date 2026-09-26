@@ -13,7 +13,6 @@ class Solution {
         for(int i=0;i<n;i++){
             int surplus=machines[i]-required;
             running +=surplus;
-            System.out.println(running);
             if(surplus>moves) moves=surplus;
             moves=Math.max(moves,Math.abs(running));
         }
