@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/Anuragmishra12345/LeetCode/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0517-super-washing-machines](https://github.com/Anuragmishra12345/LeetCode/tree/main/0517-super-washing-machines/) | Hard |
 | [0518-coin-change-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0542-01-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0542-01-matrix/) | Medium |
@@ -831,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Anuragmishra12345/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0502-ipo](https://github.com/Anuragmishra12345/LeetCode/tree/main/0502-ipo/) | Hard |
+| [0517-super-washing-machines](https://github.com/Anuragmishra12345/LeetCode/tree/main/0517-super-washing-machines/) | Hard |
 | [0561-array-partition](https://github.com/Anuragmishra12345/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/Anuragmishra12345/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
