@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1106-parsing-a-boolean-expression](https://github.com/Anuragmishra12345/LeetCode/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Anuragmishra12345/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anuragmishra12345/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anuragmishra12345/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
@@ -1127,6 +1128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Anuragmishra12345/LeetCode/tree/main/1106-parsing-a-boolean-expression/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anuragmishra12345/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Shortest Path
@@ -1340,6 +1342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
