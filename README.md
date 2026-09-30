@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/Anuragmishra12345/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuragmishra12345/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Anuragmishra12345/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1025-divisor-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1035-uncrossed-lines](https://github.com/Anuragmishra12345/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
@@ -925,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Anuragmishra12345/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0991-broken-calculator](https://github.com/Anuragmishra12345/LeetCode/tree/main/0991-broken-calculator/) | Medium |
+| [1025-divisor-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1323-maximum-69-number](https://github.com/Anuragmishra12345/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
@@ -1292,6 +1294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Anuragmishra12345/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/1563-stone-game-v/) | Hard |
@@ -1378,4 +1381,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Anuragmishra12345/LeetCode/tree/main/1931-painting-a-grid-with-three-different-colors/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
