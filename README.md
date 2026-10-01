@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/Anuragmishra12345/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/Anuragmishra12345/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/Anuragmishra12345/LeetCode/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Anuragmishra12345/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/Anuragmishra12345/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/Anuragmishra12345/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/Anuragmishra12345/LeetCode/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0994-rotting-oranges](https://github.com/Anuragmishra12345/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -478,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Anuragmishra12345/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Anuragmishra12345/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuragmishra12345/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/Anuragmishra12345/LeetCode/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0942-di-string-match](https://github.com/Anuragmishra12345/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Anuragmishra12345/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -606,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Anuragmishra12345/LeetCode/tree/main/0726-number-of-atoms/) | Hard |
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/Anuragmishra12345/LeetCode/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
@@ -707,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Anuragmishra12345/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Anuragmishra12345/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/Anuragmishra12345/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
+| [0924-minimize-malware-spread](https://github.com/Anuragmishra12345/LeetCode/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anuragmishra12345/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Anuragmishra12345/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -754,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Anuragmishra12345/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anuragmishra12345/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Anuragmishra12345/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/Anuragmishra12345/LeetCode/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Anuragmishra12345/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anuragmishra12345/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
