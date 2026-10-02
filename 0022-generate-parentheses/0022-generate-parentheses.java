@@ -1,19 +1,19 @@
 class Solution {
     List<String> result=new ArrayList<>();
     public List<String> generateParenthesis(int n) {
-        generate("",n,n);
+        generate(n,0,0,"");
         return result;
     }
-    public void generate(String curr, int open , int close){
-        if(open==0 && close==0){
+    void generate(int n, int open , int close, String curr){
+        if(open==close && open==n) {
             result.add(curr);
             return;
         }
-        if(open>0){
-            generate(curr+'(',open-1,close);
+        if(open>n || close>n) return ;
+
+        if(open>close){
+            generate(n,open,close+1,curr+')');
         }
-        if(close>open){
-            generate(curr+')',open,close-1);
-        }  
+        generate(n,open+1,close,curr+'(');
     }
 }
