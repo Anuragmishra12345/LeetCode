@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Anuragmishra12345/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0672-bulb-switcher-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Anuragmishra12345/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0733-flood-fill](https://github.com/Anuragmishra12345/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Anuragmishra12345/LeetCode/tree/main/0743-network-delay-time/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Anuragmishra12345/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0672-bulb-switcher-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0733-flood-fill](https://github.com/Anuragmishra12345/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Anuragmishra12345/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Anuragmishra12345/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -936,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Anuragmishra12345/LeetCode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0670-maximum-swap](https://github.com/Anuragmishra12345/LeetCode/tree/main/0670-maximum-swap/) | Medium |
+| [0672-bulb-switcher-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0788-rotated-digits](https://github.com/Anuragmishra12345/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Anuragmishra12345/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -1041,6 +1044,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Anuragmishra12345/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0389-find-the-difference](https://github.com/Anuragmishra12345/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0672-bulb-switcher-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Anuragmishra12345/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/2002-maximum-product-of-the-length-of-two-palindromic-subsequences/) | Medium |
