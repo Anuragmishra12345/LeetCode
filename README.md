@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anuragmishra12345/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/2002-maximum-product-of-the-length-of-two-palindromic-subsequences/) | Medium |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Anuragmishra12345/LeetCode/tree/main/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter/) | Hard |
 | [2063-vowels-of-all-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anuragmishra12345/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -880,6 +881,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Anuragmishra12345/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anuragmishra12345/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1927-sum-game/) | Medium |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Anuragmishra12345/LeetCode/tree/main/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter/) | Hard |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anuragmishra12345/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anuragmishra12345/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
@@ -1164,6 +1166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anuragmishra12345/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Anuragmishra12345/LeetCode/tree/main/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Anuragmishra12345/LeetCode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 ## Shortest Path
@@ -1204,6 +1207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Anuragmishra12345/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Anuragmishra12345/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Anuragmishra12345/LeetCode/tree/main/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
