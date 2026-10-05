@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anuragmishra12345/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Anuragmishra12345/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0310-minimum-height-trees](https://github.com/Anuragmishra12345/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0337-house-robber-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0437-path-sum-iii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Anuragmishra12345/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Anuragmishra12345/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0310-minimum-height-trees](https://github.com/Anuragmishra12345/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0322-coin-change](https://github.com/Anuragmishra12345/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0542-01-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0542-01-matrix/) | Medium |
@@ -762,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Anuragmishra12345/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0310-minimum-height-trees](https://github.com/Anuragmishra12345/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/Anuragmishra12345/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Anuragmishra12345/LeetCode/tree/main/0743-network-delay-time/) | Medium |
@@ -908,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Anuragmishra12345/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0310-minimum-height-trees](https://github.com/Anuragmishra12345/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0802-find-eventual-safe-states](https://github.com/Anuragmishra12345/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Math
