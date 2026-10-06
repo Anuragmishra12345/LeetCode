@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anuragmishra12345/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1745-palindrome-partitioning-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/1745-palindrome-partitioning-iv/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Anuragmishra12345/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1871-jump-game-vii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anuragmishra12345/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anuragmishra12345/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anuragmishra12345/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1745-palindrome-partitioning-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/1745-palindrome-partitioning-iv/) | Hard |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Anuragmishra12345/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1871-jump-game-vii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Anuragmishra12345/LeetCode/tree/main/1931-painting-a-grid-with-three-different-colors/) | Hard |
@@ -633,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Anuragmishra12345/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Anuragmishra12345/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anuragmishra12345/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Anuragmishra12345/LeetCode/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
@@ -776,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Anuragmishra12345/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anuragmishra12345/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Anuragmishra12345/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -916,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/Anuragmishra12345/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0802-find-eventual-safe-states](https://github.com/Anuragmishra12345/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Anuragmishra12345/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1149,6 +1154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Anuragmishra12345/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1231,6 +1237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Anuragmishra12345/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Anuragmishra12345/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Anuragmishra12345/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Anuragmishra12345/LeetCode/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Anuragmishra12345/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1370,6 +1377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Anuragmishra12345/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anuragmishra12345/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Anuragmishra12345/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
