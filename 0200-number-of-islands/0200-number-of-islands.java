@@ -1,28 +1,38 @@
 class Solution {
-    public int numIslands(char[][] board) {
-        int m=board.length;
-        int n=board[0].length;
+    boolean[][] visited;
+    int m;
+    int n;
+    public int numIslands(char[][] grid) {
+        m=grid.length;
+        n=grid[0].length;
+        visited=new boolean[m][n];
+
         int ans=0;
+
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(board[i][j]=='1'){
+                if(grid[i][j]=='1'  &&  !visited[i][j]){
+                    visited[i][j]=true;
                     ans++;
-                    dfs(board,i,j);
+                    dfs(grid,i,j);
                 }
             }
         }
+
         return ans;
     }
-    void dfs(char[][] board, int i, int j){
-        int n=board[0].length;
-        int m=board.length;
-        if(i<0 || j<0 || i>=m || j>=n || board[i][j]!='1') return;
+    int[][] dir={{0,1},{1,0},{0,-1},{-1,0}};
+    void dfs(char[][] grid, int r, int c){
 
-        board[i][j]='#';
+        for(int[] d:dir){
+            int newRow=r+d[0];
+            int newCol=c+d[1];
 
-        dfs(board,i+1,j);
-        dfs(board,i-1,j);
-        dfs(board,i,j+1);
-        dfs(board,i,j-1);
+            if(newRow<0 || newRow>=m || newCol<0 || newCol>=n || grid[newRow][newCol]!='1' || visited[newRow][newCol]) continue;
+
+            visited[newRow][newCol]=true;
+
+            dfs(grid,newRow,newCol);
+        }
     }
 }
