@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anuragmishra12345/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0942-di-string-match](https://github.com/Anuragmishra12345/LeetCode/tree/main/0942-di-string-match/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/Anuragmishra12345/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Anuragmishra12345/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -1185,6 +1186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Anuragmishra12345/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anuragmishra12345/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Anuragmishra12345/LeetCode/tree/main/1106-parsing-a-boolean-expression/) | Hard |
@@ -1413,6 +1415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anuragmishra12345/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuragmishra12345/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuragmishra12345/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
