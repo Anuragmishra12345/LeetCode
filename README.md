@@ -546,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anuragmishra12345/LeetCode/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anuragmishra12345/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anuragmishra12345/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anuragmishra12345/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Anuragmishra12345/LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anuragmishra12345/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/Anuragmishra12345/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2258-escape-the-spreading-fire](https://github.com/Anuragmishra12345/LeetCode/tree/main/2258-escape-the-spreading-fire/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuragmishra12345/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -1050,6 +1052,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/Anuragmishra12345/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Anuragmishra12345/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anuragmishra12345/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anuragmishra12345/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuragmishra12345/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Anuragmishra12345/LeetCode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
