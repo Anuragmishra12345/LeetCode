@@ -591,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anuragmishra12345/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Anuragmishra12345/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
@@ -1005,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3871-count-commas-in-range-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Anuragmishra12345/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1067,6 +1069,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/Anuragmishra12345/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anuragmishra12345/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anuragmishra12345/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Anuragmishra12345/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1286,6 +1289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuragmishra12345/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anuragmishra12345/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Anuragmishra12345/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
