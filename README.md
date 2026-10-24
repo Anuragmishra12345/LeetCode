@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anuragmishra12345/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Anuragmishra12345/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Anuragmishra12345/LeetCode/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
@@ -995,6 +996,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/Anuragmishra12345/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Anuragmishra12345/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
