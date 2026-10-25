@@ -5,10 +5,14 @@ class Solution {
     public int closedIsland(int[][] grid) {
         m=grid.length;
         n=grid[0].length;
+
         visited=new boolean[m][n];
+
         int count=0;
+
         for(int i=1;i<m-1;i++){
             for(int j=1;j<n-1;j++){
+                
                 if(grid[i][j]==0 && !visited[i][j]){
                     if(dfs(grid,i,j)) count++;
                 } 
@@ -21,8 +25,7 @@ class Solution {
 
     boolean dfs(int[][] grid, int i, int j){
         if(i==0 || j==0 || i==m-1 || j==n-1){
-            if(grid[i][j]==0) return false;
-            else return true;
+            return false;
         }
         visited[i][j]=true;
 
