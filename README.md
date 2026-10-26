@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anuragmishra12345/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-map-of-highest-peak](https://github.com/Anuragmishra12345/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2258-escape-the-spreading-fire](https://github.com/Anuragmishra12345/LeetCode/tree/main/2258-escape-the-spreading-fire/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -586,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anuragmishra12345/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anuragmishra12345/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anuragmishra12345/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -758,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Anuragmishra12345/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Anuragmishra12345/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -791,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuragmishra12345/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
