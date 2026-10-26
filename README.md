@@ -1354,6 +1354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0596-classes-with-at-least-5-students](https://github.com/Anuragmishra12345/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/Anuragmishra12345/LeetCode/tree/main/0607-sales-person/) | Easy |
 | [0620-not-boring-movies](https://github.com/Anuragmishra12345/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/Anuragmishra12345/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
