@@ -5,12 +5,12 @@ class Solution {
         for(int i=0;i<n;i++) first.append('.');
 
         result[0]=first.toString();
-
+       
         for(int i=1;i<m;i++){
-            StringBuilder next=new StringBuilder();
-            for(int j=0;j<n-1;j++) next.append('#');
-            next.append('.');
-            result[i]=next.toString();
+             first.setLength(0);
+            for(int j=0;j<n-1;j++) first.append('#');
+            first.append('.');
+            result[i]=first.toString();
         }
 
         return result;
