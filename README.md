@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3840-house-robber-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/3840-house-robber-v/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Anuragmishra12345/LeetCode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anuragmishra12345/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Anuragmishra12345/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -796,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuragmishra12345/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1103,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anuragmishra12345/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Anuragmishra12345/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuragmishra12345/LeetCode/tree/main/2002-maximum-product-of-the-length-of-two-palindromic-subsequences/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
