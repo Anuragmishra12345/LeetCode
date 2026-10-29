@@ -569,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuragmishra12345/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anuragmishra12345/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2560-house-robber-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/2560-house-robber-iv/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Anuragmishra12345/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Anuragmishra12345/LeetCode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
@@ -666,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Anuragmishra12345/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anuragmishra12345/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Anuragmishra12345/LeetCode/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Anuragmishra12345/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
@@ -1128,6 +1130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuragmishra12345/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anuragmishra12345/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1871-jump-game-vii](https://github.com/Anuragmishra12345/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anuragmishra12345/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Prefix Sum
