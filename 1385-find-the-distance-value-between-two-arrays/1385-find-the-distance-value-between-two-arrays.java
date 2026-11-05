@@ -4,8 +4,11 @@ class Solution {
 
         for(int i=0;i<arr1.length;i++){
             boolean present=true;
-            for(int j=0;j<arr2.length && present;j++){
-                if(Math.abs(arr1[i]-arr2[j])<=d) present=false;
+            for(int j=0;j<arr2.length;j++){
+                if(Math.abs(arr1[i]-arr2[j])<=d) {
+                    present=false;
+                    break;
+                }
             }
             if(present) result++;
         }
