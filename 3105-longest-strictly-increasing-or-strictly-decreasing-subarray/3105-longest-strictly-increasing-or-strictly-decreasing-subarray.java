@@ -3,29 +3,22 @@ class Solution {
         int left1=0;
         int left2=0;
 
-        int min=nums[0];
-        int max=min;
+        int prev=nums[0];
 
         int result=1;
 
-        for(int right=0;right<nums.length;right++){
+        for(int right=1;right<nums.length;right++){
             int curr=nums[right];
 
-            if(curr>min){
-                min=curr;
-            }
-            else {
+            if(curr<=prev){
                 left1=right;
-                min=curr;
             }
 
-            if(curr<max){
-                max=curr;
-            }
-            else{
+            if(curr>=prev){
                 left2=right;
-                max=min;
             }
+
+            prev=curr;
 
             result=Math.max(result,right-left1+1);
             result=Math.max(result,right-left2+1);
