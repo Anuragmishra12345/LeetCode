@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-extra-characters-in-a-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anuragmishra12345/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anuragmishra12345/LeetCode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anuragmishra12345/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
