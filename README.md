@@ -580,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-frog-jump-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Anuragmishra12345/LeetCode/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2560-house-robber-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/2560-house-robber-iv/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anuragmishra12345/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Anuragmishra12345/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Anuragmishra12345/LeetCode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuragmishra12345/LeetCode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
@@ -961,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuragmishra12345/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2498-frog-jump-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 | [2560-house-robber-iv](https://github.com/Anuragmishra12345/LeetCode/tree/main/2560-house-robber-iv/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anuragmishra12345/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Anuragmishra12345/LeetCode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuragmishra12345/LeetCode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Anuragmishra12345/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
@@ -1105,6 +1107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anuragmishra12345/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anuragmishra12345/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuragmishra12345/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anuragmishra12345/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Anuragmishra12345/LeetCode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuragmishra12345/LeetCode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anuragmishra12345/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
