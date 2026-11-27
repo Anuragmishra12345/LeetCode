@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3840-house-robber-v](https://github.com/Anuragmishra12345/LeetCode/tree/main/3840-house-robber-v/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Anuragmishra12345/LeetCode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anuragmishra12345/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -628,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3886-sum-of-sortable-integers](https://github.com/Anuragmishra12345/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Anuragmishra12345/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -983,6 +985,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anuragmishra12345/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anuragmishra12345/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Anuragmishra12345/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Anuragmishra12345/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
